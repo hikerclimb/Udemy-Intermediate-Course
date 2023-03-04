@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\obj\Debug\PriceQuote.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\obj\Debug\PriceQuote.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\bin\Debug\PriceQuote.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\bin\Debug\PriceQuote.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\obj\Debug\PriceQuote.FrmPriceQuote.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\obj\Debug\PriceQuote.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\3-PriceQuote\PriceQuote\obj\Debug\PriceQuote.csproj.GenerateResource.Cache

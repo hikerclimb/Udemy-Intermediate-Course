@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\obj\Debug\Pizza.FrmPizza.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\4-Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.Cache

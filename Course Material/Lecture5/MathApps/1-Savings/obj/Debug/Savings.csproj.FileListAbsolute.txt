@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\1-Savings\obj\Debug\Savings.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\1-Savings\obj\Debug\Savings.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\1-Savings\bin\Debug\Savings.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\1-Savings\bin\Debug\Savings.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\1-Savings\obj\Debug\Savings.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\3-EnterOutput\1-WinApps\1-Savings\obj\Debug\Savings.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\bin\Debug\Savings.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\bin\Debug\Savings.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\bin\Debug\Savings.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\MathApps\1-Savings\obj\Debug\Savings.pdb

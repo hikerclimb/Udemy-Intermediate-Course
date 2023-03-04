@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\bin\Debug\net6.0-windows\Averages.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\bin\Debug\net6.0-windows\Averages.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\bin\Debug\net6.0-windows\Averages.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\bin\Debug\net6.0-windows\Averages.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\bin\Debug\net6.0-windows\Averages.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.FrmAverages.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\refint\Averages.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\Averages.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Averages\obj\Debug\net6.0-windows\ref\Averages.dll
