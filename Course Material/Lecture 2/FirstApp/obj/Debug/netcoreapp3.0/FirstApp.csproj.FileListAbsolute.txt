@@ -1,0 +1,8 @@
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.FrmFirstApp.resources
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy C# Intermediate Course\Course Material\Lecture 2\FirstApp\obj\Debug\netcoreapp3.0\FirstApp.csproj.CoreCompileInputs.cache

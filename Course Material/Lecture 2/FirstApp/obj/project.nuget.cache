@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7x4Eksew0NrdjujVk7x2oZmfbtHlMOLJlSsIDUTP+Am4rzLFKn69YMBjo2Poq9OlO7XN9c9nHk/LV4R2EOD7lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aniket\\Documents\\Udemy C# Intermediate Course\\Course Material\\Lecture 2\\FirstApp\\FirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aniket\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}
