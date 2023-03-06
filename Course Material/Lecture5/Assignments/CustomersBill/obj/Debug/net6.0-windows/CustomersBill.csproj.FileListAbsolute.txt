@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\bin\Debug\net6.0-windows\CustomersBill.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\bin\Debug\net6.0-windows\CustomersBill.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\bin\Debug\net6.0-windows\CustomersBill.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\bin\Debug\net6.0-windows\CustomersBill.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\bin\Debug\net6.0-windows\CustomersBill.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\refint\CustomersBill.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\CustomersBill.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\CustomersBill\obj\Debug\net6.0-windows\ref\CustomersBill.dll

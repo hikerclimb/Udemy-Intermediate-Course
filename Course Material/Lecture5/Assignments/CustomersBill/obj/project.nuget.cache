@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uO3T0wiQz+4YgH5AnLLvvtHEPg/BwoM8XPGjqd/jOc1J1fKTexex/p94PQGD3jKsLfUgtCG7t1nXNKzOgvprPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aniket\\Documents\\Udemy-Intermediate-Course\\Course Material\\Lecture5\\Assignments\\CustomersBill\\CustomersBill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aniket\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

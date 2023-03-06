@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.FrmCommision.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\bin\Debug\net6.0-windows\Commission.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\bin\Debug\net6.0-windows\Commission.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\bin\Debug\net6.0-windows\Commission.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\bin\Debug\net6.0-windows\Commission.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\bin\Debug\net6.0-windows\Commission.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\refint\Commission.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\Commission.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\Commission\obj\Debug\net6.0-windows\ref\Commission.dll

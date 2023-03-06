@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yiPc/uoqGNT1x5ReNygt53EBlJwVR8o9OqbrajA4+/R+h32260zSXDMxEtzgjOn4CL8RicaZ/woyUqKkD1u9rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aniket\\Documents\\Udemy-Intermediate-Course\\Course Material\\Lecture5\\Assignments\\Commission\\Commission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aniket\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

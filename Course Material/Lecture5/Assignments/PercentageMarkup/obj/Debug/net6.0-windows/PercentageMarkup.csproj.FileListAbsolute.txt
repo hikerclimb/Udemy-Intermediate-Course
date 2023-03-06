@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\bin\Debug\net6.0-windows\PercentageMarkup.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\bin\Debug\net6.0-windows\PercentageMarkup.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\bin\Debug\net6.0-windows\PercentageMarkup.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\bin\Debug\net6.0-windows\PercentageMarkup.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\bin\Debug\net6.0-windows\PercentageMarkup.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\refint\PercentageMarkup.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\PercentageMarkup.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture5\Assignments\PercentageMarkup\obj\Debug\net6.0-windows\ref\PercentageMarkup.dll
