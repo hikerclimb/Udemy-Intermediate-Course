@@ -1,0 +1,10 @@
+C:\Temp\Epidemiology\Epidemiology\bin\Debug\Epidemiology.exe.config
+C:\Temp\Epidemiology\Epidemiology\bin\Debug\Epidemiology.exe
+C:\Temp\Epidemiology\Epidemiology\bin\Debug\Epidemiology.pdb
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.csproj.AssemblyReference.cache
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.FrmVirus.resources
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.Properties.Resources.resources
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.csproj.GenerateResource.cache
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.csproj.CoreCompileInputs.cache
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.exe
+C:\Temp\Epidemiology\Epidemiology\obj\Debug\Epidemiology.pdb

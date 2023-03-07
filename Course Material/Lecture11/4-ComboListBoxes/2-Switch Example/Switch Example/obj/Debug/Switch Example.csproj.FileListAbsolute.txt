@@ -1,0 +1,19 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\bin\Debug\Switch Example.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\bin\Debug\Switch Example.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\obj\Debug\Switch_Example.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\obj\Debug\Switch_Example.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\3-OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\3-OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\3-OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\3-OtherExamples\Switch Example\Switch Example\obj\Debug\Switch Example.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\obj\Debug\Switch Example.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\obj\Debug\Switch Example.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\bin\Debug\Switch Example.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\bin\Debug\Switch Example.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\obj\Debug\Switch Example.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\obj\Debug\Switch_Example.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\obj\Debug\Switch_Example.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\4-ComboListBoxes\2-Switch Example\Switch Example\obj\Debug\Switch Example.csproj.GenerateResource.Cache

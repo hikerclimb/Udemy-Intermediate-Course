@@ -1,0 +1,22 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.FrmMain.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.FrmPatientInfo.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\7-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\bin\Debug\PatientInfo.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.FrmMain.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.FrmPatientInfo.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\6-NewPatientInfo\PatientInfo\obj\Debug\PatientInfo.pdb

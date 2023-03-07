@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache

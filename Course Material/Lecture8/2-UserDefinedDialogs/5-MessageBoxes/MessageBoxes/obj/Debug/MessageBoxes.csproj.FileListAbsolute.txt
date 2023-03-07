@@ -1,0 +1,20 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\2-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture8\2-UserDefinedDialogs\5-MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb

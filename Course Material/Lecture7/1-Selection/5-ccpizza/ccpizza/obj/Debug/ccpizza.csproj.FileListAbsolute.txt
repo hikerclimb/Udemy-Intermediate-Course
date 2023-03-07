@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\bin\Debug\ccpizza.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\bin\Debug\ccpizza.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.FrmPizza.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.pdb

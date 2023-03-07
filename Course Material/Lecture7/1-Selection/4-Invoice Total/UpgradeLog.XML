@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InvoiceTotal">
+</Property><Property Name="Solution File" Value="D:\Charlie School Material\ics3m\cc\C#CourseUnits\2-SelRep\C#\Chapter 05\Invoice Total\InvoiceTotal.sln">
+</Property><Property Name="Date" Value="Monday, April 16, 2007">
+</Property><Property Name="Time" Value="17:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="InvoiceTotal" Source="InvoiceTotal.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InvoiceTotal" Source="InvoiceTotal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InvoiceTotal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InvoiceTotal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InvoiceTotal" Source="InvoiceTotal.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

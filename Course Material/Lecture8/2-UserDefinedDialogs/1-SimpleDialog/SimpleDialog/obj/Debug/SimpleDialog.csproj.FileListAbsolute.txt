@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\bin\Debug\SimpleDialog.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\bin\Debug\SimpleDialog.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.SimpleDialog.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\1-SimpleDialog\SimpleDialog\obj\Debug\SimpleDialog.pdb

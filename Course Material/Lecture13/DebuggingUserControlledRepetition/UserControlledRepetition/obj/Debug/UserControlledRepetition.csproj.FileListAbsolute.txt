@@ -1,0 +1,20 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.FrmWhileTrue.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#\LectureDemos\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#\LectureDemos\6-Repetition\UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.FrmWhileTrue.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\LEcture13\DebuggingUserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.pdb

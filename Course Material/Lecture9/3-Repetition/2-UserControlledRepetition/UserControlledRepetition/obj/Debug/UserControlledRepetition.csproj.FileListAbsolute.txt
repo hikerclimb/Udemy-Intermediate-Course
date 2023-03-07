@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\bin\Debug\UserControlledRepetition.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.FrmWhileTrue.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\3-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\4-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\4-UserControlledRepetition\UserControlledRepetition\obj\Debug\UserControlledRepetition.pdb

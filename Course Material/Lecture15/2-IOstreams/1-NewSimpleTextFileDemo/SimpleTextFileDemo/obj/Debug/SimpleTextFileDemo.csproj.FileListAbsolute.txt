@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture15\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb

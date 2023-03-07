@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\bin\Debug\net6.0-windows\ElectricityBill.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\bin\Debug\net6.0-windows\ElectricityBill.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\bin\Debug\net6.0-windows\ElectricityBill.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\bin\Debug\net6.0-windows\ElectricityBill.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\bin\Debug\net6.0-windows\ElectricityBill.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\refint\ElectricityBill.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ElectricityBill.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\ElectricityBill\obj\Debug\net6.0-windows\ref\ElectricityBill.dll

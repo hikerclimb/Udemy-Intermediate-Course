@@ -1,0 +1,16 @@
+obj\Debug\ListBoxTest.exe
+obj\Debug\ListBoxTest.pdb
+bin\Debug\ListBoxTest.exe
+bin\Debug\ListBoxTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ListBoxTest.Properties.Resources.resources
+obj\Debug\ListBoxTest.csproj.GenerateResource.Cache
+bin\Release\ListBoxTest.exe
+bin\Release\ListBoxTest.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ListBoxTest.Properties.Resources.resources
+obj\Release\ListBoxTest.csproj.GenerateResource.Cache
+obj\Release\ListBoxTest.exe
+obj\Release\ListBoxTest.pdb
+obj\Release\ListBoxTestForm.resources
+obj\Debug\ListBoxTestForm.resources

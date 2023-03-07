@@ -1,0 +1,11 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\bin\Debug\Sandwich.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\bin\Debug\Sandwich.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\5-Sandwich\obj\Debug\Sandwich.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\6-Sandwich\obj\Debug\Sandwich.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\6-Sandwich\obj\Debug\Sandwich.pdb

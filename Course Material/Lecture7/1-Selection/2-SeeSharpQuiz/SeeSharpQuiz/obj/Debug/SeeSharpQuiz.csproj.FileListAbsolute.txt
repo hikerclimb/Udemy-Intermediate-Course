@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\obj\Debug\SeeSharpQuiz.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\obj\Debug\SeeSharpQuiz.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\bin\Debug\SeeSharpQuiz.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\bin\Debug\SeeSharpQuiz.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\obj\Debug\SeeSharpQuiz.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\obj\Debug\SeeSharpQuiz.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\2-SeeSharpQuiz\SeeSharpQuiz\obj\Debug\SeeSharpQuiz.csproj.GenerateResource.Cache

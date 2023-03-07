@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\obj\Debug\EvenOdd.FrmEvenOdd.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\obj\Debug\EvenOdd.InputBox.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\obj\Debug\EvenOdd.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\3-Repetition\8-EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.GenerateResource.Cache

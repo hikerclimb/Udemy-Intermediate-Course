@@ -1,0 +1,15 @@
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\obj\Debug\SoundsARound.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\obj\Debug\SoundsARound.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\bin\Debug\SoundsARound.exe
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\bin\Debug\SoundsARound.pdb
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\obj\Debug\SoundsARound.FrmSounds.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\obj\Debug\SoundsARound.Properties.Resources.resources
+C:\Temp\UdemyC#\C#CourseUnits\1-Intro\3-EnterOutput\SoundsARound\SoundsARound\obj\Debug\SoundsARound.csproj.GenerateResource.Cache
+C:\Temp\SoundsARound\SoundsARound\bin\Debug\SoundsARound.exe
+C:\Temp\SoundsARound\SoundsARound\bin\Debug\SoundsARound.pdb
+C:\Temp\SoundsARound\SoundsARound\obj\Debug\SoundsARound.csprojResolveAssemblyReference.cache
+C:\Temp\SoundsARound\SoundsARound\obj\Debug\SoundsARound.FrmSounds.resources
+C:\Temp\SoundsARound\SoundsARound\obj\Debug\SoundsARound.Properties.Resources.resources
+C:\Temp\SoundsARound\SoundsARound\obj\Debug\SoundsARound.csproj.GenerateResource.Cache
+C:\Temp\SoundsARound\SoundsARound\obj\Debug\SoundsARound.exe
+C:\Temp\SoundsARound\SoundsARound\obj\Debug\SoundsARound.pdb

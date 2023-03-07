@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\obj\Debug\SongMethod.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\obj\Debug\SongMethod.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\bin\Debug\SongMethod.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\bin\Debug\SongMethod.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\obj\Debug\SongMethod.FrmSongMethod.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\obj\Debug\SongMethod.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\2-SongMethod\SongMethod\obj\Debug\SongMethod.csproj.GenerateResource.Cache

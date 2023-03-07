@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\bin\Debug\ccpizza.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\bin\Debug\ccpizza.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.FrmPizza.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\4-SelectionRepetition\1-Selection\7-ccpizza\ccpizza\obj\Debug\ccpizza.csproj.GenerateResource.Cache

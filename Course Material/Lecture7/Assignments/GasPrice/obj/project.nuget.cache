@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKLB/9MAS3TfSmEsjq2uzlwOKwXA8olW99QsiqgbLcDeFya+PfPnKDHCLI7dy9TBn6DcmO6SOT8K6V1l/5U1Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aniket\\Documents\\Udemy-Intermediate-Course\\Course Material\\Lecture7\\Assignments\\GasPrice\\GasPrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aniket\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

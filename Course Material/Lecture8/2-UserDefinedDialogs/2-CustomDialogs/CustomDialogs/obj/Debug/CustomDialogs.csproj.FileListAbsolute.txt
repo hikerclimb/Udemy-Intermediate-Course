@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Dialog.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\2-UserDefinedDialogs\4-CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb

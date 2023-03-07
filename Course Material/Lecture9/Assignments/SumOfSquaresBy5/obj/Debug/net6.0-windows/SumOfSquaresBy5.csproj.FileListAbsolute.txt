@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\bin\Debug\net6.0-windows\SumOfSquaresBy5.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\bin\Debug\net6.0-windows\SumOfSquaresBy5.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\bin\Debug\net6.0-windows\SumOfSquaresBy5.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\bin\Debug\net6.0-windows\SumOfSquaresBy5.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\refint\SumOfSquaresBy5.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\SumOfSquaresBy5.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\obj\Debug\net6.0-windows\ref\SumOfSquaresBy5.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture9\Assignments\SumOfSquaresBy5\bin\Debug\net6.0-windows\SumOfSquaresBy5.pdb

@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\CreditCardApp\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb

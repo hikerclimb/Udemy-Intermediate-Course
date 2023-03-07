@@ -1,0 +1,13 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\3-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\1-methods\3-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.FrmSimpleMethods.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture14\1-methods\2-SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.pdb

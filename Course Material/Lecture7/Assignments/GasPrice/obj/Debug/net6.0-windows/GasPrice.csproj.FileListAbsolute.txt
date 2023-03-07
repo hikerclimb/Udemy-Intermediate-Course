@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\bin\Debug\net6.0-windows\GasPrice.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\bin\Debug\net6.0-windows\GasPrice.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\bin\Debug\net6.0-windows\GasPrice.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\bin\Debug\net6.0-windows\GasPrice.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\bin\Debug\net6.0-windows\GasPrice.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.FrmGasPrice.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\refint\GasPrice.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\GasPrice.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture7\Assignments\GasPrice\obj\Debug\net6.0-windows\ref\GasPrice.dll

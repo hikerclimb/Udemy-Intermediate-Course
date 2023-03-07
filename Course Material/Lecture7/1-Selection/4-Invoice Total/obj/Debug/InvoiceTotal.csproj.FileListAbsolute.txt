@@ -1,0 +1,13 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\WindowsApplication1.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\WindowsApplication1.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\bin\Debug\WindowsApplication1.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\bin\Debug\WindowsApplication1.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\WindowsApplication1.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\WindowsApplication1.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\WindowsApplication1.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\bin\Debug\WindowsApplication1.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\bin\Debug\WindowsApplication1.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\WindowsApplication1.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\4-SelectionRepetition\1-Selection\4-Invoice Total\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
