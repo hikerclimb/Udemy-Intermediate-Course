@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\2-Intermediate\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\2-Intermediate\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.pdb

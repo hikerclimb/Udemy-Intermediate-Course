@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\obj\Debug\FailingDivision.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\obj\Debug\FailingDivision.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\bin\Debug\FailingDivision.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\bin\Debug\FailingDivision.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\obj\Debug\FailingDivision.Form1.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\obj\Debug\FailingDivision.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\2-HandlingExceptions\1-WhatIsAnException\DivisionProblem\FailingDivision\obj\Debug\FailingDivision.csproj.GenerateResource.Cache

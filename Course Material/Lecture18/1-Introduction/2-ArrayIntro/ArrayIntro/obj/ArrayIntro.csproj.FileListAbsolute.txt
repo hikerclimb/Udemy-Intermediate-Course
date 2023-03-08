@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\1-OneDimensional\Introduction\1-ArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\1-OneDimensional\Introduction\1-ArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb

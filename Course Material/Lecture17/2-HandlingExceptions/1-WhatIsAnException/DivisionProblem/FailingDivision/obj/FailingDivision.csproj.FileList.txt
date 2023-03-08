@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FailingDivision.Form1.resources
+obj\Debug\FailingDivision.Properties.Resources.resources
+obj\Debug\FailingDivision.csproj.GenerateResource.Cache
+.\bin\Debug\FailingDivision.exe
+.\bin\Debug\FailingDivision.pdb
+obj\Debug\FailingDivision.exe
+obj\Debug\FailingDivision.pdb

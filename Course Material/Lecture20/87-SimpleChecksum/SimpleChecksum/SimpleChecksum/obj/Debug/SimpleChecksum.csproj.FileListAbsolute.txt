@@ -1,0 +1,11 @@
+C:\Temp\SimpleChecksum\SimpleChecksum\bin\Debug\SimpleChecksum.exe.config
+C:\Temp\SimpleChecksum\SimpleChecksum\bin\Debug\SimpleChecksum.exe
+C:\Temp\SimpleChecksum\SimpleChecksum\bin\Debug\SimpleChecksum.pdb
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.csproj.AssemblyReference.cache
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.csproj.SuggestedBindingRedirects.cache
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.FrmCheck.resources
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.Properties.Resources.resources
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.csproj.GenerateResource.cache
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.csproj.CoreCompileInputs.cache
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.exe
+C:\Temp\SimpleChecksum\SimpleChecksum\obj\Debug\SimpleChecksum.pdb

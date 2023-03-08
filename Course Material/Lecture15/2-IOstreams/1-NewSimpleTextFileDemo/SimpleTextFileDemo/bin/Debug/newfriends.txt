@@ -1,5 +1,2 @@
-Mary
-John
-Frank
-Marge
-Homer
+Ani
+Dip

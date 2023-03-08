@@ -1,0 +1,27 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\2-ExceptionHandling\IOExceptions\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb

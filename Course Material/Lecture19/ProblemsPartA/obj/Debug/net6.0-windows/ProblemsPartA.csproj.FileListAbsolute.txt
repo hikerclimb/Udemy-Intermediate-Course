@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\bin\Debug\net6.0-windows\ProblemsPartA.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\bin\Debug\net6.0-windows\ProblemsPartA.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\bin\Debug\net6.0-windows\ProblemsPartA.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\bin\Debug\net6.0-windows\ProblemsPartA.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\bin\Debug\net6.0-windows\ProblemsPartA.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\refint\ProblemsPartA.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ref\ProblemsPartA.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\ProblemsPartA\obj\Debug\net6.0-windows\ProblemsPartA.FrmGrades.resources

@@ -1,0 +1,10 @@
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.csprojAssemblyReference.cache
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.FrmPan.resources
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.Properties.Resources.resources
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.csproj.GenerateResource.cache
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.csproj.CoreCompileInputs.cache
+C:\Temp\Pangram\Pangram\bin\Debug\Pangram.exe.config
+C:\Temp\Pangram\Pangram\bin\Debug\Pangram.exe
+C:\Temp\Pangram\Pangram\bin\Debug\Pangram.pdb
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.exe
+C:\Temp\Pangram\Pangram\obj\Debug\Pangram.pdb

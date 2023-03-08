@@ -1,0 +1,7 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture19\Problem1PartA\obj\Debug\net6.0-windows\Problem1PartA.csproj.CoreCompileInputs.cache

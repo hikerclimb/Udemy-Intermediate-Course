@@ -1,0 +1,16 @@
+<grades>
+	<subject>
+		<name>Math</name>
+		<grade>63%</grade>
+	</subject>
+
+	<subject>
+		<name>Science</name>
+		<grade>71%</grade>
+	</subject>
+
+	<subject>
+		<name>French</name>
+		<grade>55%</grade>
+	</subject>
+</grades>

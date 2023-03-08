@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\bin\Debug\UsingTabs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\bin\Debug\UsingTabs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabsForm.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\bin\Debug\UsingTabs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\bin\Debug\UsingTabs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabsForm.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\OtherIdeas\Tabs\UsingTabs\obj\Debug\UsingTabs.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\2-Tabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\2-Tabs\UsingTabs\obj\Debug\UsingTabs.pdb

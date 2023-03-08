@@ -1,0 +1,11 @@
+C:\Temp\FavouriteDigit\FavouriteDigit\bin\Debug\FavouriteDigit.exe.config
+C:\Temp\FavouriteDigit\FavouriteDigit\bin\Debug\FavouriteDigit.exe
+C:\Temp\FavouriteDigit\FavouriteDigit\bin\Debug\FavouriteDigit.pdb
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.csproj.AssemblyReference.cache
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.csproj.SuggestedBindingRedirects.cache
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.FrmDigit.resources
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.Properties.Resources.resources
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.csproj.GenerateResource.cache
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.csproj.CoreCompileInputs.cache
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.exe
+C:\Temp\FavouriteDigit\FavouriteDigit\obj\Debug\FavouriteDigit.pdb

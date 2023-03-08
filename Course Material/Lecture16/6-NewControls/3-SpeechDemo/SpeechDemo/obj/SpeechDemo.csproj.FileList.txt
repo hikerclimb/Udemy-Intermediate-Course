@@ -1,0 +1,11 @@
+bin\Debug\SpeechDemo.exe
+bin\Debug\SpeechDemo.pdb
+bin\Debug\Interop.SpeechLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SpeechLib.dll
+obj\Debug\SpeechDemo.csproj.ResolveComReference.cache
+obj\Debug\SpeechDemo.FrmSpeech.resources
+obj\Debug\SpeechDemo.Properties.Resources.resources
+obj\Debug\SpeechDemo.csproj.GenerateResource.Cache
+obj\Debug\SpeechDemo.exe
+obj\Debug\SpeechDemo.pdb

@@ -1,0 +1,16 @@
+obj\Debug\UsingTabs.exe
+obj\Debug\UsingTabs.pdb
+bin\Debug\UsingTabs.exe
+bin\Debug\UsingTabs.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UsingTabs.Properties.Resources.resources
+obj\Debug\UsingTabs.csproj.GenerateResource.Cache
+bin\Release\UsingTabs.exe
+bin\Release\UsingTabs.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\UsingTabs.Properties.Resources.resources
+obj\Release\UsingTabs.csproj.GenerateResource.Cache
+obj\Release\UsingTabs.exe
+obj\Release\UsingTabs.pdb
+obj\Release\UsingTabsForm.resources
+obj\Debug\UsingTabsForm.resources

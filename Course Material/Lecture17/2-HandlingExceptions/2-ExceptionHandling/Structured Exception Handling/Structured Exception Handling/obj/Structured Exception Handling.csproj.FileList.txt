@@ -1,0 +1,8 @@
+bin\Debug\Structured Exception Handling.exe
+bin\Debug\Structured Exception Handling.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Structured_Exception_Handling.frmExceptionHandlingExample.resources
+obj\Debug\Structured_Exception_Handling.Properties.Resources.resources
+obj\Debug\Structured Exception Handling.csproj.GenerateResource.Cache
+obj\Debug\Structured Exception Handling.exe
+obj\Debug\Structured Exception Handling.pdb

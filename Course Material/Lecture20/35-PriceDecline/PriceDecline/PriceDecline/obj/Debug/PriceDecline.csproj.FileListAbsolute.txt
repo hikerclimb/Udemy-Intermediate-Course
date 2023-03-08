@@ -1,0 +1,9 @@
+C:\Temp\PriceDecline\PriceDecline\bin\Debug\PriceDecline.exe.config
+C:\Temp\PriceDecline\PriceDecline\bin\Debug\PriceDecline.exe
+C:\Temp\PriceDecline\PriceDecline\bin\Debug\PriceDecline.pdb
+C:\Temp\PriceDecline\PriceDecline\obj\Debug\PriceDecline.csprojResolveAssemblyReference.cache
+C:\Temp\PriceDecline\PriceDecline\obj\Debug\PriceDecline.FrmPrice.resources
+C:\Temp\PriceDecline\PriceDecline\obj\Debug\PriceDecline.Properties.Resources.resources
+C:\Temp\PriceDecline\PriceDecline\obj\Debug\PriceDecline.csproj.GenerateResource.Cache
+C:\Temp\PriceDecline\PriceDecline\obj\Debug\PriceDecline.exe
+C:\Temp\PriceDecline\PriceDecline\obj\Debug\PriceDecline.pdb

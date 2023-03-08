@@ -1,0 +1,15 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.FrmArrayIntro.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\bin\Debug\ArrayIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.FrmArrayIntro.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\3-AdvancedArrays\1-OneDimensional\1-Introduction\1-SimpleArrayIntro\ArrayIntro\obj\Debug\ArrayIntro.csproj.GenerateResource.Cache

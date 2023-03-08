@@ -1,0 +1,22 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\1-MoreControlsDemo\obj\Debug\Program7.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\1-MoreControlsDemo\obj\Debug\Program7.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\1-MoreControlsDemo\bin\Debug\Program7.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\1-MoreControlsDemo\bin\Debug\Program7.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\bin\Debug\Program7.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\bin\Debug\Program7.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\obj\Debug\FormWithManyControls.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\bin\Debug\Program7.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\bin\Debug\Program7.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\bin\Debug\Program7.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\FormWithManyControls.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\1-MoreControlsDemo\obj\Debug\Program7.Form2.resources

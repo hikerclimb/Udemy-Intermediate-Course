@@ -1,0 +1,28 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\Interop.SpeechLib.dll
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\bin\Debug\Interop.SpeechLib.dll
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.FrmSpeech.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\6-ExtensionAssignmentIdeas\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\2-SpeechDemo\SpeechDemo\obj\Debug\Interop.SpeechLib.dll
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.ResolveComReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\1-ReviewExtension\6-NewControls\2-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\bin\Debug\SpeechDemo.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.ResolveComReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.FrmSpeech.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture16\6-NewControls\3-SpeechDemo\SpeechDemo\obj\Debug\SpeechDemo.pdb

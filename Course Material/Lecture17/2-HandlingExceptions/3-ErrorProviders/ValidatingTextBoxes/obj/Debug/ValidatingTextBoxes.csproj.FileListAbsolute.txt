@@ -1,0 +1,26 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\bin\Debug\ValidatingTextBoxes.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture17\2-HandlingExceptions\3-ErrorProviders\ValidatingTextBoxes\obj\Debug\ValidatingTextBoxes.pdb
