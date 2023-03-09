@@ -1,0 +1,10 @@
+C:\Temp\Flipper\bin\Debug\Flipper.exe.config
+C:\Temp\Flipper\bin\Debug\Flipper.exe
+C:\Temp\Flipper\bin\Debug\Flipper.pdb
+C:\Temp\Flipper\obj\Debug\Flipper.csprojAssemblyReference.cache
+C:\Temp\Flipper\obj\Debug\Flipper.FrmFlipper.resources
+C:\Temp\Flipper\obj\Debug\Flipper.Properties.Resources.resources
+C:\Temp\Flipper\obj\Debug\Flipper.csproj.GenerateResource.cache
+C:\Temp\Flipper\obj\Debug\Flipper.csproj.CoreCompileInputs.cache
+C:\Temp\Flipper\obj\Debug\Flipper.exe
+C:\Temp\Flipper\obj\Debug\Flipper.pdb

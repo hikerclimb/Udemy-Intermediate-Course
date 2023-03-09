@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.FrmTwoDIntro.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.FrmTwoDIntro.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture21\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.pdb

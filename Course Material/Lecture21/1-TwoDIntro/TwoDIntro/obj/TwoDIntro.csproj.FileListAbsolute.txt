@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\bin\Debug\TwoDIntro.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.FrmTwoDIntro.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\1-TwoDIntro\TwoDIntro\obj\Debug\TwoDIntro.csproj.GenerateResource.Cache

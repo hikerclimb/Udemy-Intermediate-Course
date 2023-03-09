@@ -1,2 +1,13 @@
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\2-Intermediate\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.exe
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\1-OneDimensional\2-Intermediate\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.FrmDelimited.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture20\5-DelimitedTextFileReading\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.pdb
