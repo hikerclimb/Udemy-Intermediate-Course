@@ -5,3 +5,14 @@ C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-Two
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\2-QuizScore\QuizScore\obj\Debug\QuizScore.FrmQuizScore.resources
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\2-QuizScore\QuizScore\obj\Debug\QuizScore.Properties.Resources.resources
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\2-QuizScore\QuizScore\obj\Debug\QuizScore.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\bin\Debug\QuizScore.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\bin\Debug\QuizScore.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\bin\Debug\QuizScore.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.FrmQuizScore.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture22\2-QuizScore\QuizScore\obj\Debug\QuizScore.pdb
