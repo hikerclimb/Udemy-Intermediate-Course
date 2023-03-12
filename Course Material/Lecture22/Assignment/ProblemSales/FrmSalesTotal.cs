@@ -18,6 +18,19 @@ namespace ProblemSales
 
             LoadData(data, rows, cols, names, daysOfWeek);
             DisplayTable(data, names, daysOfWeek, rows, cols);
+            ChangeFrankSalesFrThursTo1500(data);
+            DisplayTable(data, names, daysOfWeek, rows, cols);
+            CopyLucysSalesForWedIntoKarensForMonday(data);
+            DisplayTable(data, names, daysOfWeek, rows, cols);
+            Add10ToAllSales(data, rows, cols);
+            DisplayTable(data, names, daysOfWeek, rows, cols);
+            DisplayNamesOfSalespeopleAndDatesForWhichSalesBelow1000(data, rows, cols, names);
+            LargestSalesAmountAndSalesPersonsNameAndDate(data, rows, cols, names, daysOfWeek);
+            int[] weeklySales = WeeklySalesTotalOfEachPerson(data, rows, cols, names);
+            DetermineWhoHadGreatestSales(weeklySales, names);
+            WeeksPayPerPayPerson(data, rows, cols, names);
+
+
         }
 
         private void LoadData(int[,] data, int rows, int cols, string[] names, string[] daysOfWeek)
@@ -66,6 +79,101 @@ namespace ProblemSales
                     TxtOutput.Text += Convert.ToString(data[i, j]) + "\t";
                 }
                 TxtOutput.Text += Environment.NewLine;
+            }
+            TxtOutput.Text += Environment.NewLine;
+        }
+
+        private void ChangeFrankSalesFrThursTo1500(int[,] data)
+        {
+            data[2, 3] = 1500;
+        }
+
+        private void CopyLucysSalesForWedIntoKarensForMonday(int[,] data)
+        {
+            data[3, 0] = data[1, 2];
+        }
+
+        private void Add10ToAllSales(int[,] data, int rows, int cols)
+        {
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    data[(int)row, (int)col] += 10;
+                }
+            }
+        }
+
+        private void DisplayNamesOfSalespeopleAndDatesForWhichSalesBelow1000(int[,] data, int rows, int cols, string[] names)
+        {
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    if (data[(int)row, (int)col] < 1000)
+                    {
+                        TxtOutput.Text += names[row] + "\t" + data[row, col] + Environment.NewLine;
+                    }
+                }
+            }
+        }
+
+        private void LargestSalesAmountAndSalesPersonsNameAndDate(int[,] data, int rows, int cols, string[] names, string[] dates)
+        {
+            int largest = 0;
+            int rowPlace = 0;
+            int colPlace = 0;
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    if (data[(int)row, (int)col] > largest)
+                    {
+                        largest = data[(int)row, (int)col];
+                        rowPlace = row;
+                        colPlace = col;
+                    }
+                }
+            }
+            TxtOutput.Text += Environment.NewLine + largest + " " + names[rowPlace] + " " + dates[colPlace] + Environment.NewLine;
+        }
+
+        private int[] WeeklySalesTotalOfEachPerson(int[,] data, int rows, int cols, string[] names)
+        {
+            int[] weeklySales = new int[4];
+
+            TxtOutput.Text += Environment.NewLine;
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    weeklySales[row] += data[row, col];
+                }
+
+                TxtOutput.Text += names[row] + " " + weeklySales[row] + " " + Environment.NewLine;
+            }
+
+            return weeklySales;
+        }
+
+        private void DetermineWhoHadGreatestSales(int[] weeklySales, string[] names)
+        {
+            int pos = weeklySales.ToList().IndexOf(weeklySales.Max());
+
+            TxtOutput.Text += Environment.NewLine + names[pos] + Environment.NewLine;
+        }
+
+        private void WeeksPayPerPayPerson(int[,] data, int rows, int cols, string[] names)
+        {
+            double[] percentageCommissionPerDay = { .12, .1123, .1008, .085, .08, .0764 };
+            double[] payPerPerson = new double[rows];
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < cols; col++)
+                {
+                    payPerPerson[row] += data[row, col] * percentageCommissionPerDay[col];
+                }
+                TxtOutput.Text += Environment.NewLine + names[row] + ": " + payPerPerson[row] ;
             }
             TxtOutput.Text += Environment.NewLine;
         }
