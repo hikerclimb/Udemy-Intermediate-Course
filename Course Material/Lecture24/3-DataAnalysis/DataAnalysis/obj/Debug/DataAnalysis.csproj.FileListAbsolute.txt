@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.FrmDataAnalysis.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.FrmDataAnalysis.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture24\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb

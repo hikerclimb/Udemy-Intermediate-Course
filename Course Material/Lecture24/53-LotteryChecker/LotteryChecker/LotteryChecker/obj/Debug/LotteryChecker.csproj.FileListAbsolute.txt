@@ -1,0 +1,10 @@
+C:\Temp\LotteryChecker\LotteryChecker\bin\Debug\LotteryChecker.exe.config
+C:\Temp\LotteryChecker\LotteryChecker\bin\Debug\LotteryChecker.exe
+C:\Temp\LotteryChecker\LotteryChecker\bin\Debug\LotteryChecker.pdb
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.csprojAssemblyReference.cache
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.FrmLottery.resources
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.Properties.Resources.resources
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.csproj.GenerateResource.cache
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.csproj.CoreCompileInputs.cache
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.exe
+C:\Temp\LotteryChecker\LotteryChecker\obj\Debug\LotteryChecker.pdb

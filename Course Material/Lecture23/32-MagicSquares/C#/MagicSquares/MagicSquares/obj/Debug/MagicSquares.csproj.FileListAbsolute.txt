@@ -1,0 +1,9 @@
+C:\Temp\MagicSquares\MagicSquares\bin\Debug\MagicSquares.exe.config
+C:\Temp\MagicSquares\MagicSquares\bin\Debug\MagicSquares.exe
+C:\Temp\MagicSquares\MagicSquares\bin\Debug\MagicSquares.pdb
+C:\Temp\MagicSquares\MagicSquares\obj\Debug\MagicSquares.csprojResolveAssemblyReference.cache
+C:\Temp\MagicSquares\MagicSquares\obj\Debug\MagicSquares.FrmMagic.resources
+C:\Temp\MagicSquares\MagicSquares\obj\Debug\MagicSquares.Properties.Resources.resources
+C:\Temp\MagicSquares\MagicSquares\obj\Debug\MagicSquares.csproj.GenerateResource.Cache
+C:\Temp\MagicSquares\MagicSquares\obj\Debug\MagicSquares.exe
+C:\Temp\MagicSquares\MagicSquares\obj\Debug\MagicSquares.pdb

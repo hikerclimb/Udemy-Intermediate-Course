@@ -1,0 +1,11 @@
+C:\Temp\ReducedFractions\ReducedFractions\bin\Debug\ReducedFractions.exe.config
+C:\Temp\ReducedFractions\ReducedFractions\bin\Debug\ReducedFractions.exe
+C:\Temp\ReducedFractions\ReducedFractions\bin\Debug\ReducedFractions.pdb
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.csproj.AssemblyReference.cache
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.csproj.SuggestedBindingRedirects.cache
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.FrmFractions.resources
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.Properties.Resources.resources
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.csproj.GenerateResource.cache
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.csproj.CoreCompileInputs.cache
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.exe
+C:\Temp\ReducedFractions\ReducedFractions\obj\Debug\ReducedFractions.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ComputerMathPitfalls.FrmPitfalls.resources
+obj\Debug\ComputerMathPitfalls.Properties.Resources.resources
+obj\Debug\ComputerMathPitfalls.csproj.GenerateResource.Cache
+bin\Debug\ComputerMathPitfalls.exe
+bin\Debug\ComputerMathPitfalls.pdb
+obj\Debug\ComputerMathPitfalls.exe
+obj\Debug\ComputerMathPitfalls.pdb

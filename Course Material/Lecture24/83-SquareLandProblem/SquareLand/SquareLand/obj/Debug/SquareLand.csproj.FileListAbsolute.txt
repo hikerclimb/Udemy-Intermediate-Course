@@ -1,0 +1,10 @@
+C:\Temp\SquareLand\SquareLand\bin\Debug\SquareLand.exe.config
+C:\Temp\SquareLand\SquareLand\bin\Debug\SquareLand.exe
+C:\Temp\SquareLand\SquareLand\bin\Debug\SquareLand.pdb
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.csproj.AssemblyReference.cache
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.FrmSquareLand.resources
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.Properties.Resources.resources
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.csproj.GenerateResource.cache
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.csproj.CoreCompileInputs.cache
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.exe
+C:\Temp\SquareLand\SquareLand\obj\Debug\SquareLand.pdb

@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\bin\Debug\net6.0-windows\ToleranceProblems.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\bin\Debug\net6.0-windows\ToleranceProblems.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\bin\Debug\net6.0-windows\ToleranceProblems.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\bin\Debug\net6.0-windows\ToleranceProblems.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.Tolerance.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\refint\ToleranceProblems.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ToleranceProblems.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\obj\Debug\net6.0-windows\ref\ToleranceProblems.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\Assignments\ToleranceProblems\bin\Debug\net6.0-windows\ToleranceProblems.pdb

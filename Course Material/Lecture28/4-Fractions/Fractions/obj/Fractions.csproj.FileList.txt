@@ -1,0 +1,8 @@
+obj\Debug\Fractions.exe
+bin\Debug\Fractions.exe
+bin\Debug\Fractions.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fractions.FrmFractions.resources
+obj\Debug\Fractions.Properties.Resources.resources
+obj\Debug\Fractions.csproj.GenerateResource.Cache
+obj\Debug\Fractions.pdb

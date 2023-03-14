@@ -1,0 +1,8 @@
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\obj\Debug\TestPartA.exe
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\obj\Debug\TestPartA.pdb
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\bin\Debug\TestPartA.exe
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\bin\Debug\TestPartA.pdb
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\obj\Debug\ResolveAssemblyReference.cache
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\obj\Debug\TestPartA.FrmTestPartA.resources
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\obj\Debug\TestPartA.Properties.Resources.resources
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\TestPartA\TestPartA\obj\Debug\TestPartA.csproj.GenerateResource.Cache

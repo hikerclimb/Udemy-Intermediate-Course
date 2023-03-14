@@ -1,0 +1,11 @@
+C:\Temp\Navigation\Navigation\bin\Debug\Navigation.exe.config
+C:\Temp\Navigation\Navigation\bin\Debug\Navigation.exe
+C:\Temp\Navigation\Navigation\bin\Debug\Navigation.pdb
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.csproj.AssemblyReference.cache
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.csproj.SuggestedBindingRedirects.cache
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.FrmNav.resources
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.cache
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.csproj.CoreCompileInputs.cache
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.exe
+C:\Temp\Navigation\Navigation\obj\Debug\Navigation.pdb

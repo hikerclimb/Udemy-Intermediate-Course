@@ -1,0 +1,11 @@
+C:\Temp\PrettyAverages\PrettyAverages\bin\Debug\PrettyAverages.exe.config
+C:\Temp\PrettyAverages\PrettyAverages\bin\Debug\PrettyAverages.exe
+C:\Temp\PrettyAverages\PrettyAverages\bin\Debug\PrettyAverages.pdb
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.csproj.AssemblyReference.cache
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.csproj.SuggestedBindingRedirects.cache
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.FrmPretty.resources
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.Properties.Resources.resources
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.csproj.GenerateResource.cache
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.csproj.CoreCompileInputs.cache
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.exe
+C:\Temp\PrettyAverages\PrettyAverages\obj\Debug\PrettyAverages.pdb

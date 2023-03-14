@@ -1,0 +1,19 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\bin\Debug\ComputerMathPitfalls.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\bin\Debug\ComputerMathPitfalls.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.FrmPitfalls.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\3-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\bin\Debug\ComputerMathPitfalls.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\bin\Debug\ComputerMathPitfalls.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\bin\Debug\ComputerMathPitfalls.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.FrmPitfalls.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\1-ComputerMathPitfalls\ComputerMathPitfalls\obj\Debug\ComputerMathPitfalls.pdb

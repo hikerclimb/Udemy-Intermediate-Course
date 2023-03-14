@@ -1,0 +1,12 @@
+C:\Temp\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Temp\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Temp\Bingo\Bingo\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Bingo\Bingo\obj\Debug\Bingo.FrmBingo.resources
+C:\Temp\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Temp\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.Cache
+C:\Temp\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Temp\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Temp\2012\FinalFour\Problem3\Bingo\C#\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Temp\2012\FinalFour\Problem3\Bingo\C#\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2012\FinalFour\Problem3\Bingo\C#\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2012\FinalFour\Problem3\Bingo\C#\Bingo\Bingo\obj\Debug\Bingo.pdb

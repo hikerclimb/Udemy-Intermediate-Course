@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\obj\Debug\Fractions.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\obj\Debug\Fractions.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\bin\Debug\Fractions.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\obj\Debug\Fractions.FrmFractions.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\obj\Debug\Fractions.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\6-Fractions\Fractions\obj\Debug\Fractions.csproj.GenerateResource.Cache

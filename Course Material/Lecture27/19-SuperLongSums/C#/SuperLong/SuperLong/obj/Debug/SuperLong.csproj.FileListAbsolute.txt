@@ -1,0 +1,9 @@
+C:\Temp\SuperLong\SuperLong\bin\Debug\SuperLong.exe.config
+C:\Temp\SuperLong\SuperLong\bin\Debug\SuperLong.exe
+C:\Temp\SuperLong\SuperLong\bin\Debug\SuperLong.pdb
+C:\Temp\SuperLong\SuperLong\obj\Debug\SuperLong.csprojResolveAssemblyReference.cache
+C:\Temp\SuperLong\SuperLong\obj\Debug\SuperLong.FrmSuperLong.resources
+C:\Temp\SuperLong\SuperLong\obj\Debug\SuperLong.Properties.Resources.resources
+C:\Temp\SuperLong\SuperLong\obj\Debug\SuperLong.csproj.GenerateResource.Cache
+C:\Temp\SuperLong\SuperLong\obj\Debug\SuperLong.exe
+C:\Temp\SuperLong\SuperLong\obj\Debug\SuperLong.pdb

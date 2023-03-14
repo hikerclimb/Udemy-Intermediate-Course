@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\2-SimpleQuizScore\QuizScore\obj\Debug\QuizScore.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\3-AdvancedArrays\2-TwoDimensional\2-SimpleQuizScore\QuizScore\obj\Debug\QuizScore.pdb

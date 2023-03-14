@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.FrmParkingTicket.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.FrmParkingTicket.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture25\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.pdb

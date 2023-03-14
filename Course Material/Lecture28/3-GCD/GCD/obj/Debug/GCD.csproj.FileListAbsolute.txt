@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\obj\Debug\GCD.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\obj\Debug\GCD.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\bin\Debug\GCD.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\bin\Debug\GCD.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\obj\Debug\GCD.FrmGCD.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\obj\Debug\GCD.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\5-GCD\GCD\obj\Debug\GCD.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\bin\Debug\GCD.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\bin\Debug\GCD.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\bin\Debug\GCD.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.FrmGCD.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\3-GCD\GCD\obj\Debug\GCD.pdb

@@ -1,0 +1,29 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.FrmMathFunctions.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.FrmMathFunctions.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\bin\Debug\BuiltInMathFunctions.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.FrmMathFunctions.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture26\BuiltInMathFunctions\BuiltInMathFunctions\obj\Debug\BuiltInMathFunctions.pdb

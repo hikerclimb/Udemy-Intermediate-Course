@@ -1,0 +1,19 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\bin\Debug\ToleranceProblems.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\bin\Debug\ToleranceProblems.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.FrmTolerance.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\4-MathematicalApplications\4-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\bin\Debug\ToleranceProblems.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\bin\Debug\ToleranceProblems.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\bin\Debug\ToleranceProblems.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.FrmTolerance.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture27\2-ToleranceProblems\ToleranceProblems\obj\Debug\ToleranceProblems.pdb

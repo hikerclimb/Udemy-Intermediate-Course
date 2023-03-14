@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ToleranceProblems.FrmTolerance.resources
+obj\Debug\ToleranceProblems.Properties.Resources.resources
+obj\Debug\ToleranceProblems.csproj.GenerateResource.Cache
+bin\Debug\ToleranceProblems.exe
+bin\Debug\ToleranceProblems.pdb
+obj\Debug\ToleranceProblems.exe
+obj\Debug\ToleranceProblems.pdb
