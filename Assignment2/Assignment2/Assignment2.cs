@@ -16,7 +16,7 @@ namespace Assignment2
 
             string[] lines = System.IO.File.ReadAllLines(f);
 
-            int[] numOfOutput = new int[Convert.ToInt32(lines[0])*2];
+            int[] numOfOutput = new int[Convert.ToInt32(lines[0]) * 2];
             for (int i = 1; i < lines.Length; i += 2)
             {
                 var linesFirst = lines[i];
@@ -32,7 +32,7 @@ namespace Assignment2
                         break;
                     }
                 }
-                TxtOutput.Text += numOfOutput[i];
+                TxtOutput.Text += numOfOutput[i] + Environment.NewLine;
             }
         }
     }

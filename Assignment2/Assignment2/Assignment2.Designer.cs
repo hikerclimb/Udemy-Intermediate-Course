@@ -47,7 +47,7 @@
             TxtOutput.Location = new Point(160, 136);
             TxtOutput.Multiline = true;
             TxtOutput.Name = "TxtOutput";
-            TxtOutput.Size = new Size(125, 34);
+            TxtOutput.Size = new Size(213, 162);
             TxtOutput.TabIndex = 1;
             // 
             // Assignment2
