@@ -1,0 +1,16 @@
+C:\Temp\SkatingScoring\bin\Debug\SkatingScoring.exe
+C:\Temp\SkatingScoring\bin\Debug\SkatingScoring.pdb
+C:\Temp\SkatingScoring\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\SkatingScoring\obj\Debug\SkatingScoring.FrmSkatingScoring.resources
+C:\Temp\SkatingScoring\obj\Debug\SkatingScoring.Properties.Resources.resources
+C:\Temp\SkatingScoring\obj\Debug\SkatingScoring.csproj.GenerateResource.Cache
+C:\Temp\SkatingScoring\obj\Debug\SkatingScoring.exe
+C:\Temp\SkatingScoring\obj\Debug\SkatingScoring.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\obj\Debug\SkatingScoring.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\obj\Debug\SkatingScoring.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\bin\Debug\SkatingScoring.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\bin\Debug\SkatingScoring.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\obj\Debug\SkatingScoring.FrmSkatingScoring.resources
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\obj\Debug\SkatingScoring.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2013\FinalFour\Problem1\Skating\C#\SkatingScoring\obj\Debug\SkatingScoring.csproj.GenerateResource.Cache
