@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\bin\Debug\net6.0-windows\AddTime.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\bin\Debug\net6.0-windows\AddTime.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\bin\Debug\net6.0-windows\AddTime.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\bin\Debug\net6.0-windows\AddTime.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\bin\Debug\net6.0-windows\AddTime.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\refint\AddTime.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\ref\AddTime.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Assignment 4\AddTime\obj\Debug\net6.0-windows\AddTime.AddTime.resources
