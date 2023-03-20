@@ -34,28 +34,33 @@ namespace AddTime
 
             for (int i = 0; i < hour.Length - 1; i = i + 2)
             {
-                dayOut[i] = day[i] + day[i + 1];
-                if ((hour[i] + hour[i + 1]) / 24 >= 1)
-                {
-                    hourOut[i] = hour[i] + hour[i + 1] - 24;
-                    dayOut[i]++;
-                }
-                else
-                {
-                    hourOut[i] = hour[i] + hour[i + 1];
-                }
-                if ((min[i] + min[i + 1]) / 60 >= 1)
-                {
-                    minuteOut[i] = min[i] + min[i + 1] - 60;
-                    hourOut[i]++;
-                }
-                else
-                {
-                    minuteOut[i] = min[i] + min[i + 1];
-                }
+                AddTimes(dayOut, day, hourOut, hour, minuteOut, min, i);       
                 TxtOutput.Text += dayOut[i] + "days " + hourOut[i] + "hours " + minuteOut[i] + "minutes " + Environment.NewLine;
             }
 
+        }
+
+        private static void AddTimes(int[] dayOut, int[]day, int[] hourOut, int[] hour, int[] minuteOut, int[] min, int i)
+        {
+            dayOut[i] = day[i] + day[i + 1];
+            if ((hour[i] + hour[i + 1]) / 24 >= 1)
+            {
+                hourOut[i] = hour[i] + hour[i + 1] - 24;
+                dayOut[i]++;
+            }
+            else
+            {
+                hourOut[i] = hour[i] + hour[i + 1];
+            }
+            if ((min[i] + min[i + 1]) / 60 >= 1)
+            {
+                minuteOut[i] = min[i] + min[i + 1] - 60;
+                hourOut[i]++;
+            }
+            else
+            {
+                minuteOut[i] = min[i] + min[i + 1];
+            }
         }
     }
 }

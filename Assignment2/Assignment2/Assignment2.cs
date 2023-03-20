@@ -13,7 +13,7 @@ namespace Assignment2
         {
             string StartUpPath = Application.StartupPath;
             string f = StartUpPath + @"2-Diff\StudentFile\diff.txt";
-
+                
             string[] lines = System.IO.File.ReadAllLines(f);
 
             int[] numOfOutput = new int[Convert.ToInt32(lines[0]) * 2];
