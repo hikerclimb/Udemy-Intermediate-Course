@@ -1,8 +1,18 @@
-namespace MixNumberToImproperFractionInLowestTerms
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Add2FractionsAndPutInLowestTerms
 {
-    public partial class MixNumberToImproperFractionInLowestTerms : Form
+    public partial class Add2FractionsAndPutInLowestTerm : Form
     {
-        public MixNumberToImproperFractionInLowestTerms()
+        public Add2FractionsAndPutInLowestTerm()
         {
             InitializeComponent();
         }
@@ -10,19 +20,27 @@ namespace MixNumberToImproperFractionInLowestTerms
         private void BtnConvert_Click(object sender, EventArgs e)
         {
             int A;
-            int B; 
+            int B;
             int C;
+            int D;
 
             A = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter A"));
             B = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter B"));
             C = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter C"));
+            D = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter D"));
 
-            int number = A * C + B;
-            int gcdName = gcd(number, C );
-            int numGcd = number / gcdName;
-            int divGcd = C / gcdName;
-            MessageBox.Show(number + "/" + divGcd);
-            
+            int firstnumerator = D * A;
+            int secondnumerator = C*B;
+            int denominator = B * D;
+
+            int numeratorOf2 = firstnumerator + secondnumerator;
+
+            int gcdOut = gcd(numeratorOf2, denominator);
+
+            int denominatorOut = denominator / gcdOut;
+            int numeratorOut = numeratorOf2 / gcdOut;
+
+            MessageBox.Show(numeratorOut + "/" + denominatorOut);
         }
 
         private int gcd(int m, int n)

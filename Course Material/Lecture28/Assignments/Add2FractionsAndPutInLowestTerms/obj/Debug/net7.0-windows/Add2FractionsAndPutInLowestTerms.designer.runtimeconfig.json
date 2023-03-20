@@ -1,19 +1,20 @@
 {
   "runtimeOptions": {
-    "tfm": "net6.0",
+    "tfm": "net7.0",
     "frameworks": [
       {
         "name": "Microsoft.NETCore.App",
-        "version": "6.0.0"
+        "version": "7.0.0"
       },
       {
         "name": "Microsoft.WindowsDesktop.App",
-        "version": "6.0.0"
+        "version": "7.0.0"
       }
     ],
     "additionalProbingPaths": [
       "C:\\Users\\Aniket\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Aniket\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "configProperties": {

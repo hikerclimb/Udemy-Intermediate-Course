@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\bin\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\bin\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\bin\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\bin\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\bin\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.Add2FractionsAndPutInLowestTerm.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\refint\Add2FractionsAndPutInLowestTerms.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\Add2FractionsAndPutInLowestTerms.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture28\Assignments\Add2FractionsAndPutInLowestTerms\obj\Debug\net7.0-windows\ref\Add2FractionsAndPutInLowestTerms.dll
