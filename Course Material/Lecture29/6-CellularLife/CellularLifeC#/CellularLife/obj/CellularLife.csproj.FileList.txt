@@ -1,0 +1,8 @@
+bin\Debug\CellularLife.exe
+bin\Debug\CellularLife.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CellularLife.FrmCellularLife.resources
+obj\Debug\CellularLife.Properties.Resources.resources
+obj\Debug\CellularLife.csproj.GenerateResource.Cache
+obj\Debug\CellularLife.exe
+obj\Debug\CellularLife.pdb

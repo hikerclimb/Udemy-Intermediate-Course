@@ -1,0 +1,11 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\bin\Debug\GuessNumber.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\3-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\2-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\5-AdvancedProbablisticSimulations\1-Introduction\2-SampleGames\1-GuessNumber\obj\Debug\GuessNumber.pdb

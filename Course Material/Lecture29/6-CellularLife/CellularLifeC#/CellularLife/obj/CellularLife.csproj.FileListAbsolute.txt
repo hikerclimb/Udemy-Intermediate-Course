@@ -1,0 +1,2 @@
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2008\FinalFour\Problem3\CellularLife\CellularLifeC#\CellularLife\obj\Debug\CellularLife.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2008\FinalFour\Problem3\CellularLife\CellularLifeC#\CellularLife\obj\Debug\CellularLife.pdb

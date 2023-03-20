@@ -1,0 +1,10 @@
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.csprojAssemblyReference.cache
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.FrmPseudo.resources
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.Properties.Resources.resources
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.csproj.GenerateResource.cache
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.csproj.CoreCompileInputs.cache
+C:\Temp\PseudoRandom\PseudoRandom\bin\Debug\PseudoRandom.exe.config
+C:\Temp\PseudoRandom\PseudoRandom\bin\Debug\PseudoRandom.exe
+C:\Temp\PseudoRandom\PseudoRandom\bin\Debug\PseudoRandom.pdb
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.exe
+C:\Temp\PseudoRandom\PseudoRandom\obj\Debug\PseudoRandom.pdb
