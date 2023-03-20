@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\bin\Debug\ShootingGallery.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\bin\Debug\ShootingGallery.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.FrmShootingGallery.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\2-ShootingGallery\ShootingGallery\obj\Debug\ShootingGallery.csproj.GenerateResource.Cache

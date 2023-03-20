@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TennisProblem.FrmTennis.resources
+obj\Debug\TennisProblem.Properties.Resources.resources
+obj\Debug\TennisProblem.csproj.GenerateResource.Cache
+bin\Debug\TennisProblem.exe
+bin\Debug\TennisProblem.pdb
+obj\Debug\TennisProblem.exe
+obj\Debug\TennisProblem.pdb

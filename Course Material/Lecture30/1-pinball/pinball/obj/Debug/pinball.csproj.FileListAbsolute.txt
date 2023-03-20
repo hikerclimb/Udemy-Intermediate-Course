@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\obj\Debug\pinball.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\obj\Debug\pinball.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\bin\Debug\pinball.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\bin\Debug\pinball.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\obj\Debug\pinball.FrmPinball.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\obj\Debug\pinball.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\1-pinball\pinball\obj\Debug\pinball.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\bin\Debug\pinball.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\bin\Debug\pinball.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\bin\Debug\pinball.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.FrmPinball.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture30\1-pinball\pinball\obj\Debug\pinball.pdb

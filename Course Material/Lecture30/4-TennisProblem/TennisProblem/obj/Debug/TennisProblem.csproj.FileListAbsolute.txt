@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\obj\Debug\TennisProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\obj\Debug\TennisProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\bin\Debug\TennisProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\bin\Debug\TennisProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\obj\Debug\TennisProblem.FrmTennis.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\obj\Debug\TennisProblem.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\4-TennisProblem\TennisProblem\obj\Debug\TennisProblem.csproj.GenerateResource.Cache

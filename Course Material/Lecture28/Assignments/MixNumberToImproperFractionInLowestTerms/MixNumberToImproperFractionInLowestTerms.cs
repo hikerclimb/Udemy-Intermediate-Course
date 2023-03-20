@@ -1,3 +1,5 @@
+using System.Windows.Forms.Design;
+
 namespace MixNumberToImproperFractionInLowestTerms
 {
     public partial class MixNumberToImproperFractionInLowestTerms : Form
@@ -10,19 +12,31 @@ namespace MixNumberToImproperFractionInLowestTerms
         private void BtnConvert_Click(object sender, EventArgs e)
         {
             int A;
-            int B; 
+            int B;
             int C;
 
             A = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter A"));
             B = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter B"));
             C = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter C"));
 
+<<<<<<< Updated upstream
             int number = A * C + B;
             int gcdName = gcd(number, C );
             int numGcd = number / gcdName;
             int divGcd = C / gcdName;
             MessageBox.Show(number + "/" + divGcd);
             
+=======
+            int number = (A * C + B);
+
+            var lcdNumber =  lcd(number, C);
+
+             var fraction = A * C/ lcdNumber;
+
+            var fraction = B 
+
+            MessageBox.Show(outp + ":" + outp1);
+>>>>>>> Stashed changes
         }
 
         private int gcd(int m, int n)
@@ -56,5 +70,9 @@ namespace MixNumberToImproperFractionInLowestTerms
 
             return x * y / gcd(x, y);
         }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
     }
 }

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DrivingSchoolProblem.FrmDrivingSchool.resources
+obj\Debug\DrivingSchoolProblem.Properties.Resources.resources
+obj\Debug\DrivingSchoolProblem.csproj.GenerateResource.Cache
+bin\Debug\DrivingSchoolProblem.exe
+bin\Debug\DrivingSchoolProblem.pdb
+obj\Debug\DrivingSchoolProblem.exe
+obj\Debug\DrivingSchoolProblem.pdb
