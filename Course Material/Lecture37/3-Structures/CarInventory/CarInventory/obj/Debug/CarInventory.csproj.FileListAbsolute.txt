@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\bin\Debug\CarInventory.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\bin\Debug\CarInventory.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.FrmCarInventory.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\4-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\3-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\3-Structures\CarInventory\CarInventory\obj\Debug\CarInventory.pdb

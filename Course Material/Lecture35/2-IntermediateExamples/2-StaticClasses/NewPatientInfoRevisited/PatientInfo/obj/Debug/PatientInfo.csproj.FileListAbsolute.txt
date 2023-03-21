@@ -1,0 +1,13 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\bin\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\bin\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.FrmMain.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.FrmOther.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.FrmPatientInfo.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-SampleApplications\3-NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-StaticClasses\NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\5-StaticClasses\NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\2-IntermediateExamples\5-StaticClasses\NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\2-IntermediateExamples\5-StaticClasses\NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.pdb

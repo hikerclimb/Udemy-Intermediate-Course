@@ -1,0 +1,9 @@
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\bin\Debug\SupplementaryOOPproblems.exe.config
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\bin\Debug\SupplementaryOOPproblems.exe
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\bin\Debug\SupplementaryOOPproblems.pdb
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\obj\Debug\SupplementaryOOPproblems.csprojResolveAssemblyReference.cache
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\obj\Debug\SupplementaryOOPproblems.FrmOOP.resources
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\obj\Debug\SupplementaryOOPproblems.Properties.Resources.resources
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\obj\Debug\SupplementaryOOPproblems.csproj.GenerateResource.Cache
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\obj\Debug\SupplementaryOOPproblems.exe
+C:\Temp\SupplementaryOOPproblems\SupplementaryOOPproblems\obj\Debug\SupplementaryOOPproblems.pdb

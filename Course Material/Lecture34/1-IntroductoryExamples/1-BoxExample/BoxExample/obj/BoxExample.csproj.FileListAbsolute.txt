@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\6-ObjectOrientedProg\1-IntroductoryExamples\BoxExample\BoxExample\obj\Debug\BoxExample.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\6-ObjectOrientedProg\1-IntroductoryExamples\BoxExample\BoxExample\obj\Debug\BoxExample.pdb

@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\1-IntroductoryExamples\9-Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\2-Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\2-Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,10 @@
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.csproj.AssemblyReference.cache
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.FrmDates.resources
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.Properties.Resources.resources
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.csproj.GenerateResource.cache
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.csproj.CoreCompileInputs.cache
+C:\Temp\MagicDates\MagicDates\bin\Debug\MagicDates.exe.config
+C:\Temp\MagicDates\MagicDates\bin\Debug\MagicDates.exe
+C:\Temp\MagicDates\MagicDates\bin\Debug\MagicDates.pdb
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.exe
+C:\Temp\MagicDates\MagicDates\obj\Debug\MagicDates.pdb

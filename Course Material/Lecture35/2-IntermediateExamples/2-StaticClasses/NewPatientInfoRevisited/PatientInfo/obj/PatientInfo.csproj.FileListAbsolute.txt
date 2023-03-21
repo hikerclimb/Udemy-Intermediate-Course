@@ -1,0 +1,2 @@
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\6-ObjectOrientedProg\2-IntermediateExamples\NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.exe
+E:\cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\6-ObjectOrientedProg\2-IntermediateExamples\NewPatientInfoRevisited\PatientInfo\obj\Debug\PatientInfo.pdb

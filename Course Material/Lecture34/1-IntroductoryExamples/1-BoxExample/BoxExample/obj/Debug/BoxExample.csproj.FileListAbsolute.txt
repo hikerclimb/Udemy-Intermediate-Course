@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\obj\Debug\BoxExample.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\obj\Debug\BoxExample.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\bin\Debug\BoxExample.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\bin\Debug\BoxExample.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\obj\Debug\BoxExample.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\obj\Debug\BoxExample.FrmBoxTester.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\obj\Debug\BoxExample.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\1-IntroductoryExamples\1-BoxExample\BoxExample\obj\Debug\BoxExample.csproj.GenerateResource.Cache

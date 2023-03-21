@@ -1,0 +1,32 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\4-TempAgency\obj\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\4-TempAgency\obj\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\4-TempAgency\bin\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\4-TempAgency\bin\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\4-TempAgency\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\4-TempAgency\obj\Debug\PayRollApp.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\1-TempAgency\obj\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\6-SampleApplications\1-TempAgency\obj\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\obj\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\obj\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\bin\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\bin\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\obj\Debug\PayRollApp.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-TempAgency\obj\Debug\PayRollApp.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\obj\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\obj\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\bin\Debug\PayRollApp.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\bin\Debug\PayRollApp.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\obj\Debug\PayRollApp.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\SampleApplications\1-Payroll\obj\Debug\PayRollApp.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\bin\Debug\PayRollApp.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\bin\Debug\PayRollApp.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\bin\Debug\PayRollApp.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.TempAgencyForm.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture36\1-Payroll\obj\Debug\PayRollApp.pdb

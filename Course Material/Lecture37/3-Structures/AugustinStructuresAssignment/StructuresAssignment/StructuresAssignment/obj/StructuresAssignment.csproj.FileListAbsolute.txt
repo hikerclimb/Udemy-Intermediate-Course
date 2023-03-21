@@ -1,0 +1,33 @@
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\ResolveAssemblyReference.cache
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.FrmJunkFood.resources
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.Properties.Resources.resources
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.csproj.GenerateResource.Cache
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\bin\Debug\StructuresAssignment.exe
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\bin\Debug\StructuresAssignment.pdb
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.exe
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.pdb
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\bin\Debug\Interop.SpeechLib.dll
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\Interop.SpeechLib.dll
+H:\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.csproj.ResolveComReference.cache
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.exe
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.pdb
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\bin\Debug\StructuresAssignment.exe
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\bin\Debug\StructuresAssignment.pdb
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\bin\Debug\Interop.SpeechLib.dll
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\Interop.SpeechLib.dll
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.csproj.ResolveComReference.cache
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.FrmJunkFood.resources
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.Properties.Resources.resources
+D:\Documents and Settings\Aug\My Documents\School\Grade 12\ICS 4M1\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.csproj.GenerateResource.Cache
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.exe
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.pdb
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\bin\Debug\StructuresAssignment.exe
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\bin\Debug\StructuresAssignment.pdb
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\bin\Debug\Interop.SpeechLib.dll
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\Interop.SpeechLib.dll
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.csproj.ResolveComReference.cache
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.FrmJunkFood.resources
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.Properties.Resources.resources
+C:\temp\AugustinStructuresAssignment\StructuresAssignment\StructuresAssignment\obj\Debug\StructuresAssignment.csproj.GenerateResource.Cache

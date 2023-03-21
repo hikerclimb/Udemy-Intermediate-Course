@@ -1,0 +1,32 @@
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\bin\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\bin\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\obj\Debug\__DinnerParty.Form1.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\obj\Debug\__DinnerParty.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 DinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\bin\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\bin\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\__DinnerParty.Form1.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\__DinnerParty.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\bin\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\bin\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\__DinnerParty.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\__DinnerParty.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\5 UdemyDinnerParty\5 DinnerParty\obj\Debug\5 DinnerParty.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\Lecture42Extra2\5 DinnerParty\obj\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\Lecture42Extra2\5 DinnerParty\obj\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\obj\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\obj\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\bin\Debug\5 DinnerParty.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\bin\Debug\5 DinnerParty.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\obj\Debug\5 DinnerParty.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\obj\Debug\__DinnerParty.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\obj\Debug\__DinnerParty.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra2\5 DinnerParty\obj\Debug\5 DinnerParty.csproj.GenerateResource.Cache

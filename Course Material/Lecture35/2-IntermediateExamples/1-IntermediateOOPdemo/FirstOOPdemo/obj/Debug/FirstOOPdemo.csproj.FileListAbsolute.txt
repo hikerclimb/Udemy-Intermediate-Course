@@ -1,0 +1,9 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\bin\Debug\FirstOOPdemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\bin\Debug\FirstOOPdemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.FrmTester.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\6-ObjectOrientedProg\2-IntermediateExamples\1-IntermediateOOPdemo\FirstOOPdemo\obj\Debug\FirstOOPdemo.pdb

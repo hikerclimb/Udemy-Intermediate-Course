@@ -1,0 +1,24 @@
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\bin\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\bin\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\__Swapping_Elephants.Form1.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\__Swapping_Elephants.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\HeadFirstCsharpCode\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\bin\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\bin\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\__Swapping_Elephants.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\__Swapping_Elephants.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\4 Swapping Elephants\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.csproj.GenerateResource.Cache
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\Lecture42Extra1\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\Lecture42Extra1\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\bin\Debug\4 Swapping Elephants.exe
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\bin\Debug\4 Swapping Elephants.pdb
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.csprojResolveAssemblyReference.cache
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\obj\Debug\__Swapping_Elephants.Form1.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\obj\Debug\__Swapping_Elephants.Properties.Resources.resources
+C:\Temp\ProgrammingChallenges\NewDemos\Intermediate\MoreOOPExamples\Lecture42Extra1\4 Swapping Elephants\obj\Debug\4 Swapping Elephants.csproj.GenerateResource.Cache
