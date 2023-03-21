@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\obj\Debug\helmets.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\obj\Debug\helmets.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\bin\Debug\helmets.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\bin\Debug\helmets.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\obj\Debug\helmets.FrmHelmets.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\obj\Debug\helmets.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\5-AdvancedProbablisticSimulations\2-Applications\5-helmets\helmets\obj\Debug\helmets.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\bin\Debug\helmets.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\bin\Debug\helmets.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\bin\Debug\helmets.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.FrmHelmets.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture31\5-helmets\helmets\obj\Debug\helmets.pdb
