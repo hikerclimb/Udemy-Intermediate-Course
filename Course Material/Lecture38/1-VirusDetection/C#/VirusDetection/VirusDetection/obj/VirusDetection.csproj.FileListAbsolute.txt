@@ -1,0 +1,20 @@
+D:\temp\VirusDetection\VirusDetection\bin\Debug\VirusDetection.exe
+D:\temp\VirusDetection\VirusDetection\bin\Debug\VirusDetection.pdb
+D:\temp\VirusDetection\VirusDetection\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\VirusDetection\VirusDetection\obj\Debug\VirusDetection.FrmVirusDetection.resources
+D:\temp\VirusDetection\VirusDetection\obj\Debug\VirusDetection.Properties.Resources.resources
+D:\temp\VirusDetection\VirusDetection\obj\Debug\VirusDetection.csproj.GenerateResource.Cache
+D:\temp\VirusDetection\VirusDetection\obj\Debug\VirusDetection.exe
+D:\temp\VirusDetection\VirusDetection\obj\Debug\VirusDetection.pdb
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.exe
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.pdb
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.FrmVirusDetection.resources
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.Properties.Resources.resources
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.csproj.GenerateResource.Cache
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\bin\Debug\VirusDetection.exe
+D:\temp\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\bin\Debug\VirusDetection.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.pdb
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem2\VirusDetection\C#\VirusDetection\VirusDetection\obj\Debug\VirusDetection.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StringIntro.FrmStringIntro.resources
+obj\Debug\StringIntro.Properties.Resources.resources
+obj\Debug\StringIntro.csproj.GenerateResource.Cache
+bin\Debug\StringIntro.exe
+bin\Debug\StringIntro.pdb
+obj\Debug\StringIntro.exe
+obj\Debug\StringIntro.pdb

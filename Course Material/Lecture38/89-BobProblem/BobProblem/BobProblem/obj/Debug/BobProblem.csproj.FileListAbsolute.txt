@@ -1,0 +1,11 @@
+C:\Temp\BobProblem\BobProblem\bin\Debug\BobProblem.exe.config
+C:\Temp\BobProblem\BobProblem\bin\Debug\BobProblem.exe
+C:\Temp\BobProblem\BobProblem\bin\Debug\BobProblem.pdb
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.csproj.AssemblyReference.cache
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.csproj.SuggestedBindingRedirects.cache
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.FrmBob.resources
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.Properties.Resources.resources
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.csproj.GenerateResource.cache
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.csproj.CoreCompileInputs.cache
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.exe
+C:\Temp\BobProblem\BobProblem\obj\Debug\BobProblem.pdb

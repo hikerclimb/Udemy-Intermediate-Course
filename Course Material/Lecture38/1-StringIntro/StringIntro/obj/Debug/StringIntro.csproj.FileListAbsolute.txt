@@ -1,0 +1,19 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\obj\Debug\StringIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\obj\Debug\StringIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\bin\Debug\StringIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\bin\Debug\StringIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\obj\Debug\StringIntro.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\obj\Debug\StringIntro.FrmStringIntro.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\obj\Debug\StringIntro.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\1-StringIntro\StringIntro\obj\Debug\StringIntro.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\bin\Debug\StringIntro.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\bin\Debug\StringIntro.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\bin\Debug\StringIntro.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.FrmStringIntro.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture38\1-StringIntro\StringIntro\obj\Debug\StringIntro.pdb
