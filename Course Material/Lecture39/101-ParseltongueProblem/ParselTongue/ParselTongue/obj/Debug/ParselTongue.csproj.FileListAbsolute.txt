@@ -1,0 +1,11 @@
+C:\Temp\ParselTongue\ParselTongue\bin\Debug\ParselTongue.exe.config
+C:\Temp\ParselTongue\ParselTongue\bin\Debug\ParselTongue.exe
+C:\Temp\ParselTongue\ParselTongue\bin\Debug\ParselTongue.pdb
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.csproj.AssemblyReference.cache
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.csproj.SuggestedBindingRedirects.cache
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.FrmParsel.resources
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.Properties.Resources.resources
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.csproj.GenerateResource.cache
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.csproj.CoreCompileInputs.cache
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.exe
+C:\Temp\ParselTongue\ParselTongue\obj\Debug\ParselTongue.pdb

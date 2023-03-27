@@ -1,0 +1,10 @@
+C:\Temp\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe.config
+C:\Temp\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe
+C:\Temp\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.pdb
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csprojAssemblyReference.cache
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.FrmArmstrong.resources
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.Properties.Resources.resources
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csproj.GenerateResource.cache
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csproj.CoreCompileInputs.cache
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.exe
+C:\Temp\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.pdb

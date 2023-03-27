@@ -1,0 +1,10 @@
+C:\Temp\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.exe.config
+C:\Temp\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.exe
+C:\Temp\RunLengthEncoding\RunLengthEncoding\bin\Debug\RunLengthEncoding.pdb
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.csprojAssemblyReference.cache
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.FrmRun.resources
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.Properties.Resources.resources
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.csproj.GenerateResource.cache
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.csproj.CoreCompileInputs.cache
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.exe
+C:\Temp\RunLengthEncoding\RunLengthEncoding\obj\Debug\RunLengthEncoding.pdb

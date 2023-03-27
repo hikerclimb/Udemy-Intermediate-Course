@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\bin\Debug\net7.0-windows\Assingments.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\bin\Debug\net7.0-windows\Assingments.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\bin\Debug\net7.0-windows\Assingments.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\bin\Debug\net7.0-windows\Assingments.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\bin\Debug\net7.0-windows\Assingments.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\refint\Assingments.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\Assingments.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture39\Assignments\Assingments\obj\Debug\net7.0-windows\ref\Assingments.dll

@@ -1,0 +1,10 @@
+C:\Temp\Acronyms\obj\Debug\Acronyms.csprojAssemblyReference.cache
+C:\Temp\Acronyms\obj\Debug\Acronyms.FrmAcronym.resources
+C:\Temp\Acronyms\obj\Debug\Acronyms.Properties.Resources.resources
+C:\Temp\Acronyms\obj\Debug\Acronyms.csproj.GenerateResource.cache
+C:\Temp\Acronyms\obj\Debug\Acronyms.csproj.CoreCompileInputs.cache
+C:\Temp\Acronyms\bin\Debug\Acronyms.exe.config
+C:\Temp\Acronyms\bin\Debug\Acronyms.exe
+C:\Temp\Acronyms\bin\Debug\Acronyms.pdb
+C:\Temp\Acronyms\obj\Debug\Acronyms.exe
+C:\Temp\Acronyms\obj\Debug\Acronyms.pdb

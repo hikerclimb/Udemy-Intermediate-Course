@@ -1,0 +1,7 @@
+Three Letter Acronyms
+Portable Network Graphics
+Accelerated Graphics Port
+Basic Input-Output Services
+Dynamic Random-Access Memory
+High-Definition Multimedia Interface
+Personal System/2
