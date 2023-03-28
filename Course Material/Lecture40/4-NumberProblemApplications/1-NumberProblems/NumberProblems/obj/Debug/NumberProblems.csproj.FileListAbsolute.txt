@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\bin\Debug\NumberProblems.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\bin\Debug\NumberProblems.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.FrmNumberProblems.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+Welcome to resources
+This is my Udemy course
+C# is an interesting programming language

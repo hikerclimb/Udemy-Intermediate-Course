@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\bin\Debug\net7.0-windows\ArmstrongNumbers.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\bin\Debug\net7.0-windows\ArmstrongNumbers.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\bin\Debug\net7.0-windows\ArmstrongNumbers.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\bin\Debug\net7.0-windows\ArmstrongNumbers.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\bin\Debug\net7.0-windows\ArmstrongNumbers.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\refint\ArmstrongNumbers.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ArmstrongNumbers.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture40\Assignments\ArmstrongNumbers\obj\Debug\net7.0-windows\ref\ArmstrongNumbers.dll

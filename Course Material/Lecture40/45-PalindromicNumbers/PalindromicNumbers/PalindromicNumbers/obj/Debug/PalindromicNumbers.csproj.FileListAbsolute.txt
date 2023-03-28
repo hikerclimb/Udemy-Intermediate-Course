@@ -1,0 +1,10 @@
+C:\Temp\PalindromicNumbers\PalindromicNumbers\bin\Debug\PalindromicNumbers.exe.config
+C:\Temp\PalindromicNumbers\PalindromicNumbers\bin\Debug\PalindromicNumbers.exe
+C:\Temp\PalindromicNumbers\PalindromicNumbers\bin\Debug\PalindromicNumbers.pdb
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.FrmPal.resources
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.Properties.Resources.resources
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.csproj.GenerateResource.cache
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.csproj.CoreCompileInputs.cache
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.exe
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.pdb
+C:\Temp\PalindromicNumbers\PalindromicNumbers\obj\Debug\PalindromicNumbers.csprojAssemblyReference.cache

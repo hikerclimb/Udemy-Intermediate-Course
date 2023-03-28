@@ -1,0 +1,10 @@
+C:\Temp\HarshadNumbers\HarshadNumbers\bin\Debug\HarshadNumbers.exe.config
+C:\Temp\HarshadNumbers\HarshadNumbers\bin\Debug\HarshadNumbers.exe
+C:\Temp\HarshadNumbers\HarshadNumbers\bin\Debug\HarshadNumbers.pdb
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.csprojAssemblyReference.cache
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.FrmHarshad.resources
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.Properties.Resources.resources
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.csproj.GenerateResource.cache
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.csproj.CoreCompileInputs.cache
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.exe
+C:\Temp\HarshadNumbers\HarshadNumbers\obj\Debug\HarshadNumbers.pdb

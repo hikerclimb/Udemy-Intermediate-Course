@@ -1,0 +1,11 @@
+C:\Temp\DiffOfSquares\DiffOfSquares\bin\Debug\DiffOfSquares.exe.config
+C:\Temp\DiffOfSquares\DiffOfSquares\bin\Debug\DiffOfSquares.exe
+C:\Temp\DiffOfSquares\DiffOfSquares\bin\Debug\DiffOfSquares.pdb
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.csproj.AssemblyReference.cache
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.csproj.SuggestedBindingRedirects.cache
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.FrmDiff.resources
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.Properties.Resources.resources
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.csproj.GenerateResource.cache
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.csproj.CoreCompileInputs.cache
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.exe
+C:\Temp\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.pdb

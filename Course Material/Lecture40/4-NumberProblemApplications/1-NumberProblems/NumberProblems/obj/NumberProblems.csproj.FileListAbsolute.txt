@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\7-StringApplications\7-NumberProblemApplications\1-NumberProblems\NumberProblems\obj\Debug\NumberProblems.pdb
