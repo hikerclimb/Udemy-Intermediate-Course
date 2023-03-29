@@ -1,0 +1,10 @@
+C:\Temp\Uncrackable\Uncrackable\bin\Debug\Uncrackable.exe.config
+C:\Temp\Uncrackable\Uncrackable\bin\Debug\Uncrackable.exe
+C:\Temp\Uncrackable\Uncrackable\bin\Debug\Uncrackable.pdb
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.csprojAssemblyReference.cache
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.Form1.resources
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.Properties.Resources.resources
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.csproj.GenerateResource.cache
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.csproj.CoreCompileInputs.cache
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.exe
+C:\Temp\Uncrackable\Uncrackable\obj\Debug\Uncrackable.pdb

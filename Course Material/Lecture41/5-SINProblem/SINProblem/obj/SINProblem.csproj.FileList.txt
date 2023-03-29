@@ -1,0 +1,8 @@
+bin\Debug\SINProblem.exe
+bin\Debug\SINProblem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SINProblem.FrmSINProblem.resources
+obj\Debug\SINProblem.Properties.Resources.resources
+obj\Debug\SINProblem.csproj.GenerateResource.Cache
+obj\Debug\SINProblem.exe
+obj\Debug\SINProblem.pdb

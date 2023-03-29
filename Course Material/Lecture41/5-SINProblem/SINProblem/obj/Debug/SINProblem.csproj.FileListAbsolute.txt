@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\obj\Debug\SINProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\obj\Debug\SINProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\bin\Debug\SINProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\bin\Debug\SINProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\obj\Debug\SINProblem.FrmSINProblem.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\obj\Debug\SINProblem.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\8-SINProblem\SINProblem\obj\Debug\SINProblem.csproj.GenerateResource.Cache

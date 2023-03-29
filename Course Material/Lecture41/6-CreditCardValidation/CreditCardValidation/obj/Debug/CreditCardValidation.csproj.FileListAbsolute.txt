@@ -1,0 +1,2 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\9-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\9-CreditCardValidation\CreditCardValidation\obj\Debug\CreditCardValidation.pdb

@@ -1,0 +1,11 @@
+C:\Temp\UPCproblem\UPCproblem\bin\Debug\UPCproblem.exe.config
+C:\Temp\UPCproblem\UPCproblem\bin\Debug\UPCproblem.exe
+C:\Temp\UPCproblem\UPCproblem\bin\Debug\UPCproblem.pdb
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.csproj.AssemblyReference.cache
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.csproj.SuggestedBindingRedirects.cache
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.FrmUPC.resources
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.Properties.Resources.resources
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.csproj.GenerateResource.cache
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.csproj.CoreCompileInputs.cache
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.exe
+C:\Temp\UPCproblem\UPCproblem\obj\Debug\UPCproblem.pdb
