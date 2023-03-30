@@ -1,0 +1,20 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\bin\Debug\ISBNApplication.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\bin\Debug\ISBNApplication.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.FrmISBN.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\bin\Debug\ISBNApplication.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\bin\Debug\ISBNApplication.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\bin\Debug\ISBNApplication.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.FrmISBN.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture42\7-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.pdb

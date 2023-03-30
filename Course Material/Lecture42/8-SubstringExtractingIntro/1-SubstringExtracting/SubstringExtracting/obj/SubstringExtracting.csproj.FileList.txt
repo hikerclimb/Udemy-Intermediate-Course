@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SubstringExtracting.FrmSubstringExtract.resources
+obj\Debug\SubstringExtracting.Properties.Resources.resources
+obj\Debug\SubstringExtracting.csproj.GenerateResource.Cache
+bin\Debug\SubstringExtracting.exe
+bin\Debug\SubstringExtracting.pdb
+obj\Debug\SubstringExtracting.exe
+obj\Debug\SubstringExtracting.pdb

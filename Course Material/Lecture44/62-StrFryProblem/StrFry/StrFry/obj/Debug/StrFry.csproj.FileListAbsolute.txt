@@ -1,0 +1,10 @@
+C:\Temp\StrFry\StrFry\bin\Debug\StrFry.exe.config
+C:\Temp\StrFry\StrFry\bin\Debug\StrFry.exe
+C:\Temp\StrFry\StrFry\bin\Debug\StrFry.pdb
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.csprojAssemblyReference.cache
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.FrmStrFry.resources
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.Properties.Resources.resources
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.csproj.GenerateResource.cache
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.csproj.CoreCompileInputs.cache
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.exe
+C:\Temp\StrFry\StrFry\obj\Debug\StrFry.pdb

@@ -1,0 +1,28 @@
+D:\temp\SingleDigit\SingleDigit\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.FrmSingleDigit.resources
+D:\temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.Properties.Resources.resources
+D:\temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.csproj.GenerateResource.Cache
+D:\temp\SingleDigit\SingleDigit\bin\Debug\SingleDigit.exe
+D:\temp\SingleDigit\SingleDigit\bin\Debug\SingleDigit.pdb
+D:\temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+D:\temp\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\bin\Debug\SingleDigit.exe
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\bin\Debug\SingleDigit.pdb
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.FrmSingleDigit.resources
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.Properties.Resources.resources
+D:\temp\Programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\bin\Debug\SingleDigit.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\bin\Debug\SingleDigit.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.FrmSingleDigit.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2009\FinalFour\Problem1\FindingSingleDigit\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.csproj.GenerateResource.Cache
+D:\temp\NewTestsQuizzes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+D:\temp\NewTestsQuizzes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb

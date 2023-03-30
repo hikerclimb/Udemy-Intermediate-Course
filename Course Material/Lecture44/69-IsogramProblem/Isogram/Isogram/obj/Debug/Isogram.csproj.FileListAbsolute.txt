@@ -1,0 +1,10 @@
+C:\Temp\Isogram\Isogram\bin\Debug\Isogram.exe.config
+C:\Temp\Isogram\Isogram\bin\Debug\Isogram.exe
+C:\Temp\Isogram\Isogram\bin\Debug\Isogram.pdb
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.csprojAssemblyReference.cache
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.FrmIsogram.resources
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.Properties.Resources.resources
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.csproj.GenerateResource.cache
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.csproj.CoreCompileInputs.cache
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.exe
+C:\Temp\Isogram\Isogram\obj\Debug\Isogram.pdb

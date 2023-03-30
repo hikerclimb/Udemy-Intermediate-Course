@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\bin\Debug\SingleDigit.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\bin\Debug\SingleDigit.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.FrmSingleDigit.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\NewStringsTest\C#\SingleDigit\SingleDigit\obj\Debug\SingleDigit.csproj.GenerateResource.Cache

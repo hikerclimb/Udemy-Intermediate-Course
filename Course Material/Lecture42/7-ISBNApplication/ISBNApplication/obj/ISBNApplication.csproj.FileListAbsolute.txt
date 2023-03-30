@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\7-StringApplications\10-ISBNApplication\ISBNApplication\obj\Debug\ISBNApplication.pdb

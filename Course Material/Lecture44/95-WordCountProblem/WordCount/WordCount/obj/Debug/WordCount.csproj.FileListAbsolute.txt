@@ -1,0 +1,11 @@
+C:\Temp\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Temp\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Temp\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.csproj.AssemblyReference.cache
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.csproj.SuggestedBindingRedirects.cache
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.FrmWord.resources
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.Properties.Resources.resources
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.csproj.GenerateResource.cache
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Temp\WordCount\WordCount\obj\Debug\WordCount.pdb

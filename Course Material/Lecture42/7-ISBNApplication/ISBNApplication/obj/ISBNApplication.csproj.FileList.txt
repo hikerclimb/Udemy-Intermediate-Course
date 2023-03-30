@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ISBNApplication.FrmISBN.resources
+obj\Debug\ISBNApplication.Properties.Resources.resources
+obj\Debug\ISBNApplication.csproj.GenerateResource.Cache
+bin\Debug\ISBNApplication.exe
+bin\Debug\ISBNApplication.pdb
+obj\Debug\ISBNApplication.exe
+obj\Debug\ISBNApplication.pdb

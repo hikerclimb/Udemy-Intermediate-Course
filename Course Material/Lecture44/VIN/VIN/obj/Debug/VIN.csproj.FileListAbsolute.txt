@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\obj\Debug\VIN.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\obj\Debug\VIN.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\bin\Debug\VIN.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\bin\Debug\VIN.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\obj\Debug\VIN.FrmVIN.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\obj\Debug\VIN.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\7-StringApplications\Notes\VIN\VIN\obj\Debug\VIN.csproj.GenerateResource.Cache

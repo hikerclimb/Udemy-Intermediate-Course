@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\obj\Debug\SubstringExtracting.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\obj\Debug\SubstringExtracting.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\bin\Debug\SubstringExtracting.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\bin\Debug\SubstringExtracting.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\obj\Debug\SubstringExtracting.FrmSubstringExtract.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\obj\Debug\SubstringExtracting.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\7-StringApplications\11-SubstringExtractingIntro\1-SubstringExtracting\SubstringExtracting\obj\Debug\SubstringExtracting.csproj.GenerateResource.Cache
