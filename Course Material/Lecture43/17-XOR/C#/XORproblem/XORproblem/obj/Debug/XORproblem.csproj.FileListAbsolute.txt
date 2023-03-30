@@ -1,0 +1,9 @@
+C:\Temp\XORproblem\XORproblem\bin\Debug\XORproblem.exe.config
+C:\Temp\XORproblem\XORproblem\bin\Debug\XORproblem.exe
+C:\Temp\XORproblem\XORproblem\bin\Debug\XORproblem.pdb
+C:\Temp\XORproblem\XORproblem\obj\Debug\XORproblem.csprojResolveAssemblyReference.cache
+C:\Temp\XORproblem\XORproblem\obj\Debug\XORproblem.FrmXOR.resources
+C:\Temp\XORproblem\XORproblem\obj\Debug\XORproblem.Properties.Resources.resources
+C:\Temp\XORproblem\XORproblem\obj\Debug\XORproblem.csproj.GenerateResource.Cache
+C:\Temp\XORproblem\XORproblem\obj\Debug\XORproblem.exe
+C:\Temp\XORproblem\XORproblem\obj\Debug\XORproblem.pdb

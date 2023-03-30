@@ -1,0 +1,10 @@
+C:\Temp\SimpleEncrypt\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+C:\Temp\SimpleEncrypt\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe
+C:\Temp\SimpleEncrypt\SimpleEncrypt\bin\Debug\SimpleEncrypt.pdb
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.csprojAssemblyReference.cache
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.FrmEncrypt.resources
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.Properties.Resources.resources
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.GenerateResource.cache
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.CoreCompileInputs.cache
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+C:\Temp\SimpleEncrypt\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb

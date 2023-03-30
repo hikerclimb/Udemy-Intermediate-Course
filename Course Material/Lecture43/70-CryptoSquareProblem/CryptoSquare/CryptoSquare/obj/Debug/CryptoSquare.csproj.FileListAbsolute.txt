@@ -1,0 +1,10 @@
+C:\Temp\CryptoSquare\CryptoSquare\bin\Debug\CryptoSquare.exe.config
+C:\Temp\CryptoSquare\CryptoSquare\bin\Debug\CryptoSquare.exe
+C:\Temp\CryptoSquare\CryptoSquare\bin\Debug\CryptoSquare.pdb
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.csprojAssemblyReference.cache
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.FrmCrypto.resources
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.Properties.Resources.resources
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.csproj.GenerateResource.cache
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.csproj.CoreCompileInputs.cache
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.exe
+C:\Temp\CryptoSquare\CryptoSquare\obj\Debug\CryptoSquare.pdb

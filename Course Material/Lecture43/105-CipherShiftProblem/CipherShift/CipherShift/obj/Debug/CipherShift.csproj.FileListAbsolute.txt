@@ -1,0 +1,11 @@
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.csproj.AssemblyReference.cache
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.csproj.SuggestedBindingRedirects.cache
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.FrmCipherShift.resources
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.Properties.Resources.resources
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.csproj.GenerateResource.cache
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.csproj.CoreCompileInputs.cache
+C:\Temp\CipherShift\CipherShift\bin\Debug\CipherShift.exe.config
+C:\Temp\CipherShift\CipherShift\bin\Debug\CipherShift.exe
+C:\Temp\CipherShift\CipherShift\bin\Debug\CipherShift.pdb
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.exe
+C:\Temp\CipherShift\CipherShift\obj\Debug\CipherShift.pdb
