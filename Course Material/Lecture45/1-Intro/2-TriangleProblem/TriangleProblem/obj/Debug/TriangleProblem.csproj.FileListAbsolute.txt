@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\bin\Debug\TriangleProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\bin\Debug\TriangleProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.FrmTriangleProblem.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.csproj.GenerateResource.Cache

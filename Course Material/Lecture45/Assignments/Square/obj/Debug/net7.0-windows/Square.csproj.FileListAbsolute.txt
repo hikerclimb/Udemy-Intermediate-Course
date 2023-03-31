@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\bin\Debug\net7.0-windows\Square.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\bin\Debug\net7.0-windows\Square.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\bin\Debug\net7.0-windows\Square.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\bin\Debug\net7.0-windows\Square.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\bin\Debug\net7.0-windows\Square.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\refint\Square.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\Square.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Square\obj\Debug\net7.0-windows\ref\Square.dll

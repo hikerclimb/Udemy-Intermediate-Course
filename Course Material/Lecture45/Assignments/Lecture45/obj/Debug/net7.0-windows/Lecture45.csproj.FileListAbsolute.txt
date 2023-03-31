@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\bin\Debug\net7.0-windows\Lecture45.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\bin\Debug\net7.0-windows\Lecture45.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\bin\Debug\net7.0-windows\Lecture45.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\bin\Debug\net7.0-windows\Lecture45.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\bin\Debug\net7.0-windows\Lecture45.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\refint\Lecture45.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\Lecture45.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\Assignments\Lecture45\obj\Debug\net7.0-windows\ref\Lecture45.dll

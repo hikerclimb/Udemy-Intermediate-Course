@@ -1,0 +1,8 @@
+obj\Debug\TriangleProblem.exe
+obj\Debug\TriangleProblem.pdb
+bin\Debug\TriangleProblem.exe
+bin\Debug\TriangleProblem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TriangleProblem.FrmTriangleProblem.resources
+obj\Debug\TriangleProblem.Properties.Resources.resources
+obj\Debug\TriangleProblem.csproj.GenerateResource.Cache
