@@ -1,0 +1,2 @@
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2008\FinalFour\Problem4\CountShapes\CountShapesC#\CountShapes\obj\Debug\CountShapes.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2008\FinalFour\Problem4\CountShapes\CountShapesC#\CountShapes\obj\Debug\CountShapes.pdb

@@ -1,0 +1,16 @@
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\bin\Release\MoneyPrize.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\bin\Release\MoneyPrize.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Release\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Release\MoneyPrize.FrmMoneyPrize.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Release\MoneyPrize.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Release\MoneyPrize.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Release\MoneyPrize.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Release\MoneyPrize.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.FrmMoneyPrize.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\Copy of MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.pdb

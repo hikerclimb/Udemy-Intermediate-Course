@@ -1,0 +1,26 @@
+D:\temp\MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.exe
+D:\temp\MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.pdb
+D:\temp\MoneyPrize\MoneyPrize\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.FrmMoneyPrize.resources
+D:\temp\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.Properties.Resources.resources
+D:\temp\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.csproj.GenerateResource.Cache
+D:\temp\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.exe
+D:\temp\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.pdb
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.exe
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.pdb
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.exe
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.pdb
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.FrmMoneyPrize.resources
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.Properties.Resources.resources
+D:\temp\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.exe
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\bin\Debug\MoneyPrize.pdb
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.FrmMoneyPrize.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.csproj.GenerateResource.Cache
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.exe
+C:\Cmaterial\CourseMaterial\ProgrammingContests\programmania\2010\FinalFour\Problem4\MoneyPrize\C#\MoneyPrize\MoneyPrize\obj\Debug\MoneyPrize.pdb

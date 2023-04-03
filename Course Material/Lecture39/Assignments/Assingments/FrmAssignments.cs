@@ -73,7 +73,7 @@ namespace Assingments
             }
         }
 
-        private void BtnProblem6_Click(object sender, EventArgs e)
+        /*private void BtnProblem6_Click(object sender, EventArgs e)
         {
             for(int i = 1; i <= 3; i++) 
             {
@@ -99,11 +99,11 @@ namespace Assingments
                         int p2 = (int)Math.Sqrt(product);
                         if (p1==p2)
                         {
-                            TxtOutput.Text += Convert.ToInt32(i.ToString() +j.ToString().Trim() + k.ToString().Trim())+ p1.ToString() + Environment.NewLine;
+                            TxtOutput.Text += i.ToString() +j.ToString().Trim() + k.ToString().Trim() + p1.ToString() + Environment.NewLine;
                         }
                     }
                 }
             }
-        }
+        }*/
     }
 }

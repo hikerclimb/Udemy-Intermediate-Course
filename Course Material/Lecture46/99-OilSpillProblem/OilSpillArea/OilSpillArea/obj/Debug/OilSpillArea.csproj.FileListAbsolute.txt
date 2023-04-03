@@ -1,0 +1,11 @@
+C:\Temp\OilSpillArea\OilSpillArea\bin\Debug\OilSpillArea.exe.config
+C:\Temp\OilSpillArea\OilSpillArea\bin\Debug\OilSpillArea.exe
+C:\Temp\OilSpillArea\OilSpillArea\bin\Debug\OilSpillArea.pdb
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.csproj.AssemblyReference.cache
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.csproj.SuggestedBindingRedirects.cache
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.FrmOilSpill.resources
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.Properties.Resources.resources
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.csproj.GenerateResource.cache
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.csproj.CoreCompileInputs.cache
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.exe
+C:\Temp\OilSpillArea\OilSpillArea\obj\Debug\OilSpillArea.pdb

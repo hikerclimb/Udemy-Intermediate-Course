@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Navigate.FrmNavigate.resources
+obj\Debug\Navigate.Properties.Resources.resources
+obj\Debug\Navigate.csproj.GenerateResource.Cache
+bin\Debug\Navigate.exe
+bin\Debug\Navigate.pdb
+obj\Debug\Navigate.exe
+obj\Debug\Navigate.pdb

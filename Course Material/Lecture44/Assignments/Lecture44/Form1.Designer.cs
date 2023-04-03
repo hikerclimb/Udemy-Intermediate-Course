@@ -30,6 +30,7 @@
         {
             BtnProblem2 = new Button();
             BtnProblem3 = new Button();
+            BtnProblem4 = new Button();
             SuspendLayout();
             // 
             // BtnProblem2
@@ -52,11 +53,22 @@
             BtnProblem3.UseVisualStyleBackColor = true;
             BtnProblem3.Click += BtnProblem3_Click;
             // 
+            // BtnProblem4
+            // 
+            BtnProblem4.Location = new Point(47, 193);
+            BtnProblem4.Name = "BtnProblem4";
+            BtnProblem4.Size = new Size(94, 28);
+            BtnProblem4.TabIndex = 2;
+            BtnProblem4.Text = "Problem4";
+            BtnProblem4.UseVisualStyleBackColor = true;
+            BtnProblem4.Click += BtnProblem4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(BtnProblem4);
             Controls.Add(BtnProblem3);
             Controls.Add(BtnProblem2);
             Name = "Form1";
@@ -68,5 +80,6 @@
 
         private Button BtnProblem2;
         private Button BtnProblem3;
+        private Button BtnProblem4;
     }
 }

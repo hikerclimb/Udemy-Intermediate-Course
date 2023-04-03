@@ -5,3 +5,14 @@ C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.FrmTriangleProblem.resources
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.Properties.Resources.resources
 C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\8-Recursion\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\bin\Debug\TriangleProblem.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\bin\Debug\TriangleProblem.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\bin\Debug\TriangleProblem.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.FrmTriangleProblem.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture45\1-Intro\2-TriangleProblem\TriangleProblem\obj\Debug\TriangleProblem.pdb

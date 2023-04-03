@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CountShapes.FrmCountShapes.resources
+obj\Debug\CountShapes.Properties.Resources.resources
+obj\Debug\CountShapes.csproj.GenerateResource.Cache
+bin\Debug\CountShapes.exe
+bin\Debug\CountShapes.pdb
+obj\Debug\CountShapes.exe
+obj\Debug\CountShapes.pdb

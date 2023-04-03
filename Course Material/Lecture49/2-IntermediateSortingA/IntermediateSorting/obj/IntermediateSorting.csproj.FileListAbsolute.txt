@@ -1,0 +1,4 @@
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSorting\IntermediateSorting\obj\Debug\IntermediateSorting.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSorting\IntermediateSorting\obj\Debug\IntermediateSorting.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingA\IntermediateSorting\obj\Debug\IntermediateSorting.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingA\IntermediateSorting\obj\Debug\IntermediateSorting.pdb

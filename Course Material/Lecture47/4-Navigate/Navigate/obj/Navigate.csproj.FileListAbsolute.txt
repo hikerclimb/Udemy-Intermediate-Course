@@ -1,0 +1,2 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\8-Recursion\2-NonLinearRecursion\6-Navigate\Navigate\obj\Debug\Navigate.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\8-Recursion\2-NonLinearRecursion\6-Navigate\Navigate\obj\Debug\Navigate.pdb

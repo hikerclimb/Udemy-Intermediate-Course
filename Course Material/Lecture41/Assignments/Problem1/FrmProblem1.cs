@@ -22,7 +22,7 @@ namespace Problem1
             {
                 total += Convert.ToInt32(AccountNumber[i].ToString()) *2;
             }
-            if (Convert.ToInt32(AccountNumber[0].ToString()) == total )
+            if (Convert.ToInt32(AccountNumber[0].ToString()) == total / 10 )
             {
                 MessageBox.Show("Valid");
             }

@@ -1,0 +1,9 @@
+C:\Temp\SmallestInteger\SmallestInteger\bin\Debug\SmallestInteger.exe.config
+C:\Temp\SmallestInteger\SmallestInteger\bin\Debug\SmallestInteger.exe
+C:\Temp\SmallestInteger\SmallestInteger\bin\Debug\SmallestInteger.pdb
+C:\Temp\SmallestInteger\SmallestInteger\obj\Debug\SmallestInteger.csprojResolveAssemblyReference.cache
+C:\Temp\SmallestInteger\SmallestInteger\obj\Debug\SmallestInteger.FrmSmallest.resources
+C:\Temp\SmallestInteger\SmallestInteger\obj\Debug\SmallestInteger.Properties.Resources.resources
+C:\Temp\SmallestInteger\SmallestInteger\obj\Debug\SmallestInteger.csproj.GenerateResource.Cache
+C:\Temp\SmallestInteger\SmallestInteger\obj\Debug\SmallestInteger.exe
+C:\Temp\SmallestInteger\SmallestInteger\obj\Debug\SmallestInteger.pdb

@@ -30,5 +30,11 @@ namespace ArmstrongNumbers
                     TxtOutpt.Text += num + Environment.NewLine;
             }
         }
+
+        private void ArmstrongNumberUsingMath()
+        {
+            int remainder = 0;
+
+        }
     }
 }

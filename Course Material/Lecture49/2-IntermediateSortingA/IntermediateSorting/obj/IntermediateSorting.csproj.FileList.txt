@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IntermediateSorting.FrmIntermediateSorting.resources
+obj\Debug\IntermediateSorting.Properties.Resources.resources
+obj\Debug\IntermediateSorting.csproj.GenerateResource.Cache
+bin\Debug\IntermediateSorting.exe
+bin\Debug\IntermediateSorting.pdb
+obj\Debug\IntermediateSorting.exe
+obj\Debug\IntermediateSorting.pdb

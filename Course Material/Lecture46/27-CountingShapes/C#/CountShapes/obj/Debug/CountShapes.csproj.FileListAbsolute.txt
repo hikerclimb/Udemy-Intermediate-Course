@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\obj\Debug\CountShapes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\obj\Debug\CountShapes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\bin\Debug\CountShapes.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\bin\Debug\CountShapes.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\obj\Debug\CountShapes.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\obj\Debug\CountShapes.FrmCountShapes.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\obj\Debug\CountShapes.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\15-ProgrammingChallenges\27-CountingShapes\C#\CountShapes\obj\Debug\CountShapes.csproj.GenerateResource.Cache
