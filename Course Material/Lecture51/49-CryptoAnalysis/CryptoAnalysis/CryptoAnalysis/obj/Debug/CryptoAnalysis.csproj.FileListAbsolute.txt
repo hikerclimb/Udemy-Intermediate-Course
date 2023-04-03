@@ -1,0 +1,10 @@
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.csprojAssemblyReference.cache
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.FrmCrypto.resources
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.Properties.Resources.resources
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.csproj.GenerateResource.cache
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.csproj.CoreCompileInputs.cache
+C:\Temp\CryptoAnalysis\CryptoAnalysis\bin\Debug\CryptoAnalysis.exe.config
+C:\Temp\CryptoAnalysis\CryptoAnalysis\bin\Debug\CryptoAnalysis.exe
+C:\Temp\CryptoAnalysis\CryptoAnalysis\bin\Debug\CryptoAnalysis.pdb
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.exe
+C:\Temp\CryptoAnalysis\CryptoAnalysis\obj\Debug\CryptoAnalysis.pdb

@@ -1,0 +1,10 @@
+C:\Temp\GrandmaGifts\GrandmaGifts\bin\Debug\GrandmaGifts.exe.config
+C:\Temp\GrandmaGifts\GrandmaGifts\bin\Debug\GrandmaGifts.exe
+C:\Temp\GrandmaGifts\GrandmaGifts\bin\Debug\GrandmaGifts.pdb
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.csprojAssemblyReference.cache
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.FrmGrand.resources
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.Properties.Resources.resources
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.csproj.GenerateResource.cache
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.csproj.CoreCompileInputs.cache
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.exe
+C:\Temp\GrandmaGifts\GrandmaGifts\obj\Debug\GrandmaGifts.pdb

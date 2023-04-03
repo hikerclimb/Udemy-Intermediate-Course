@@ -1,0 +1,26 @@
+D:\temp\DataStructuresC#\Sorting\Sorting\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\DataStructuresC#\Sorting\Sorting\obj\Debug\Sorting.FrmSorting.resources
+D:\temp\DataStructuresC#\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+D:\temp\DataStructuresC#\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+D:\temp\DataStructuresC#\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\temp\DataStructuresC#\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\temp\DataStructuresC#\Sorting\Sorting\obj\Debug\Sorting.exe
+D:\temp\DataStructuresC#\Sorting\Sorting\obj\Debug\Sorting.pdb
+D:\temp\DataStructuresC#\2-Sorting\Sorting\obj\Debug\Sorting.exe
+D:\temp\DataStructuresC#\2-Sorting\Sorting\obj\Debug\Sorting.pdb
+D:\temp\DataStructuresC#\2-Sorting\Sorting\bin\Debug\Sorting.exe
+D:\temp\DataStructuresC#\2-Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\temp\DataStructuresC#\2-Sorting\Sorting\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\DataStructuresC#\2-Sorting\Sorting\obj\Debug\Sorting.FrmSorting.resources
+D:\temp\DataStructuresC#\2-Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+D:\temp\DataStructuresC#\2-Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.pdb
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.FrmSorting.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\bin\Debug\Sorting.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\bin\Debug\Sorting.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\9-SortingSearching\1-Sorting\2-IntermediateSortingB\Sorting\obj\Debug\Sorting.pdb
