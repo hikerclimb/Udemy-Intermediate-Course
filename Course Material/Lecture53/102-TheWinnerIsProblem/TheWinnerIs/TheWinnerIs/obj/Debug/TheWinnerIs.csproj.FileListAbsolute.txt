@@ -1,0 +1,11 @@
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.csproj.AssemblyReference.cache
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.csproj.SuggestedBindingRedirects.cache
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.FrmWinner.resources
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.Properties.Resources.resources
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.csproj.GenerateResource.cache
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.csproj.CoreCompileInputs.cache
+C:\Temp\TheWinnerIs\TheWinnerIs\bin\Debug\TheWinnerIs.exe.config
+C:\Temp\TheWinnerIs\TheWinnerIs\bin\Debug\TheWinnerIs.exe
+C:\Temp\TheWinnerIs\TheWinnerIs\bin\Debug\TheWinnerIs.pdb
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.exe
+C:\Temp\TheWinnerIs\TheWinnerIs\obj\Debug\TheWinnerIs.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Snowfall.FrmSnowfall.resources
+obj\Debug\Snowfall.Properties.Resources.resources
+obj\Debug\Snowfall.csproj.GenerateResource.Cache
+bin\Debug\Snowfall.exe
+bin\Debug\Snowfall.pdb
+obj\Debug\Snowfall.exe
+obj\Debug\Snowfall.pdb
