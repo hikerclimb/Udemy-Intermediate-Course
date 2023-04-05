@@ -58,9 +58,7 @@ namespace SortByAge
 
         private void ExchangeSortByAge(ref PersonStructure[] data)
         {
-            string tempn = "";
-            int tempa = 0;
-            int temph = 0;
+            PersonStructure temp;
 
             for (int j = 0; j <= data.Length - 1; j++)
             {
@@ -68,17 +66,9 @@ namespace SortByAge
                 {
                     if (data[j].Age < data[k].Age)
                     {
-                        tempa = data[j].Age;
-                        data[j].Age = data[k].Age;
-                        data[k].Age = tempa;
-
-                        temph = data[j].Height;
-                        data[j].Height = data[k].Height;
-                        data[k].Height = temph;
-
-                        tempn = data[j].Name;
-                        data[j].Name = data[k].Name;
-                        data[k].Name = tempn;
+                        temp = data[j];
+                        data[j] = data[k];
+                        data[k] = temp;
                     }
                 }
             }
