@@ -1,0 +1,22 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\bin\Debug\Albums.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\bin\Debug\Albums.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.FrmAlbums.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.FrmDataEntry.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.FrmStatus.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\1-Albums\Albums\obj\Debug\Albums.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\bin\Debug\Albums.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\bin\Debug\Albums.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\bin\Debug\Albums.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.FrmAlbums.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.FrmDataEntry.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.FrmStatus.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture54\1-Albums\Albums\obj\Debug\Albums.pdb

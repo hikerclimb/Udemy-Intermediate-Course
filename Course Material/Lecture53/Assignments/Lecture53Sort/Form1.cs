@@ -66,13 +66,26 @@ namespace Lecture53Sort
             {
                 var splitSnowfall = line.Split(' ');
                 snowfall[c] = new SnowfallPerYear();
-                snowfall[c].City = splitSnowfall[0];
-                snowfall[c].Snowfall1 = Convert.ToInt32(splitSnowfall[1]);
-                snowfall[c].Snowfall2 = Convert.ToInt32(splitSnowfall[2]);
-                snowfall[c].Snowfall3 = Convert.ToInt32(splitSnowfall[3]);
-                snowfall[c].Snowfall4 = Convert.ToInt32(splitSnowfall[4]);
-                snowfall[c].Snowfall5 = Convert.ToInt32(splitSnowfall[5]);
-                snowfall[c].Snowfall6 = Convert.ToInt32(splitSnowfall[6]);
+                if (splitSnowfall[1].All(Char.IsLetter))
+                {
+                    snowfall[c].Snowfall6 = Convert.ToInt32(splitSnowfall[7]);
+                    snowfall[c].Snowfall5 = Convert.ToInt32(splitSnowfall[6]);
+                    snowfall[c].Snowfall4 = Convert.ToInt32(splitSnowfall[5]);
+                    snowfall[c].Snowfall3 = Convert.ToInt32(splitSnowfall[4]);
+                    snowfall[c].Snowfall2 = Convert.ToInt32(splitSnowfall[3]);
+                    snowfall[c].Snowfall1 = Convert.ToInt32(splitSnowfall[2]);
+                    snowfall[c].City = splitSnowfall[0] + splitSnowfall[1];
+                }
+                else
+                {
+                    snowfall[c].Snowfall6 = Convert.ToInt32(splitSnowfall[6]);
+                    snowfall[c].Snowfall5 = Convert.ToInt32(splitSnowfall[5]);
+                    snowfall[c].Snowfall4 = Convert.ToInt32(splitSnowfall[4]);
+                    snowfall[c].Snowfall3 = Convert.ToInt32(splitSnowfall[3]);
+                    snowfall[c].Snowfall2 = Convert.ToInt32(splitSnowfall[2]);
+                    snowfall[c].City = splitSnowfall[0];
+                    snowfall[c].City += " " + splitSnowfall[1];   
+                }
                 c++;
             }
             r.Close();
@@ -98,7 +111,7 @@ namespace Lecture53Sort
         {
             for (int i = 0; i < data.Length - 1; i++)
             {
-                avg[i] = (data[i].Snowfall1 + data[i].Snowfall2 + data[i].Snowfall3 + data[i].Snowfall4 + data[i].Snowfall5 + data[i].Snowfall6) / 6;
+                avg[i] = Convert.ToDecimal((data[i].Snowfall1 + data[i].Snowfall2 + data[i].Snowfall3 + data[i].Snowfall4 + data[i].Snowfall5 + data[i].Snowfall6) / 6.0);
             }
         }
     }
