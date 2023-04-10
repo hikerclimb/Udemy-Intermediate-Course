@@ -126,8 +126,8 @@ namespace Albums
             if (d.ShowDialog() == DialogResult.OK)
             {
                 MessageBox.Show("album to return " + d.Borrow);
-                int location = Search.Linear(albumname, d.Borrow, n);
-                //int location = Search.Binary(albumname, d.Borrow, n);
+                //int location = Search.Linear(albumname, d.Borrow, n);
+                int location = Search.Binary(albumname, d.Borrow, n);
                 //int location = Search.RecursiveBinary(albumname, 1, n, d.Borrow);
                 
                 if (location != -1)

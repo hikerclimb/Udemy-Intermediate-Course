@@ -1,0 +1,15 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\bin\Debug\DistanceTableLookups.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\bin\Debug\DistanceTableLookups.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.FrmDistanceLookups.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\bin\Debug\DistanceTableLookups.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\bin\Debug\DistanceTableLookups.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.FrmDistanceLookups.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\9-SortingSearching\2-Searching\4-DistanceTableLookups\DistanceTableLookups\obj\Debug\DistanceTableLookups.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\bin\Debug\net7.0-windows\Lectre56Assignments.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\bin\Debug\net7.0-windows\Lectre56Assignments.deps.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\bin\Debug\net7.0-windows\Lectre56Assignments.runtimeconfig.json
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\bin\Debug\net7.0-windows\Lectre56Assignments.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\bin\Debug\net7.0-windows\Lectre56Assignments.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\refint\Lectre56Assignments.dll
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\Lectre56Assignments.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture56\Assignments\Lectre56Assignments\obj\Debug\net7.0-windows\ref\Lectre56Assignments.dll
