@@ -1,0 +1,70 @@
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\ResolveAssemblyReference.cache
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Users\Valued Customer\Desktop\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+h:\ICS 4U1\Pokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+H:\fcdownload\ScottPokemon Searcher\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+H:\fcdownload\ScottPokemon Searcher\Pokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\bin\Debug\Pokemon Searcher.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmHelp.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmStats.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmSearchparameters.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.FrmNickname.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.GenericDialogBox.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\ScottPokemon Searcher\Pokemon Searcher\obj\Debug\Pokemon Searcher.pdb

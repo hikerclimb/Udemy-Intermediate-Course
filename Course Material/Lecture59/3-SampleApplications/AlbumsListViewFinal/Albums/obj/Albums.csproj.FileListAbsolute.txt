@@ -1,0 +1,9 @@
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\Albums.exe
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\Albums.pdb
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\bin\Debug\Albums.exe
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\bin\Debug\Albums.pdb
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\Albums.FrmAlbums.resources
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\Albums.FrmDataEntry.resources
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\Albums.Properties.Resources.resources
+C:\Temp\SchoolPrep\ics4u\10-AdvancedFileHandling\3-SampleApplications\AlbumsListViewFinal\Albums\obj\Debug\Albums.csproj.GenerateResource.Cache

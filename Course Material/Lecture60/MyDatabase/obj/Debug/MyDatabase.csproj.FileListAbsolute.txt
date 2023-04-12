@@ -1,0 +1,11 @@
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\bin\Debug\MyDatabase.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\bin\Debug\MyDatabase.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\bin\Debug\MyDatabase.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\MyDatabase\obj\Debug\MyDatabase.pdb

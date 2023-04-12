@@ -1,0 +1,9 @@
+obj\Debug\Sorting and Searching Arrays.exe
+obj\Debug\Sorting and Searching Arrays.pdb
+bin\Debug\Sorting and Searching Arrays.exe
+bin\Debug\Sorting and Searching Arrays.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sorting_and_Searching_Arrays.Form1.resources
+obj\Debug\Sorting_and_Searching_Arrays.FrmData.resources
+obj\Debug\Sorting_and_Searching_Arrays.Properties.Resources.resources
+obj\Debug\Sorting and Searching Arrays.csproj.GenerateResource.Cache

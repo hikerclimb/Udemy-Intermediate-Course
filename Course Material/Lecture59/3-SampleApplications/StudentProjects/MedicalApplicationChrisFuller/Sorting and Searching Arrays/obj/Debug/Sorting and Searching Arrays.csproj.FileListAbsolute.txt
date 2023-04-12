@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.FrmData.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.csproj.GenerateResource.Cache

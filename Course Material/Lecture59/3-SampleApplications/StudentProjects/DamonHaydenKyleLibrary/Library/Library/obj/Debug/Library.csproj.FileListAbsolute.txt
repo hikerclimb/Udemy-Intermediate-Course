@@ -1,0 +1,10 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\bin\Debug\Library.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\bin\Debug\Library.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmAdminLogin.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmHelp.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmLibrary.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmSelect.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache

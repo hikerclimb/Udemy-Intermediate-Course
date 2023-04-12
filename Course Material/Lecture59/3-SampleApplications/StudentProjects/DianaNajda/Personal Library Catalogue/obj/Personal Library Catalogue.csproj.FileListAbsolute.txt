@@ -1,0 +1,20 @@
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.exe
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.pdb
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.exe
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.pdb
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\ResolveAssemblyReference.cache
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmDataEntry.resources
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmHelp.resources
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmLibrary.resources
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.Properties.Resources.resources
+H:\fcdownload\DianaPersonal_Library_Catalogue\Personal Library Catalogue\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.GenerateResource.Cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmDataEntry.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmHelp.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmLibrary.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.GenerateResource.Cache

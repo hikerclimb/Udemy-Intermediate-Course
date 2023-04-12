@@ -1,0 +1,10 @@
+obj\Debug\majorAssignment.exe
+obj\Debug\majorAssignment.pdb
+bin\Debug\majorAssignment.exe
+bin\Debug\majorAssignment.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\majorAssignment.frmAbout.resources
+obj\Debug\majorAssignment.frmAdd.resources
+obj\Debug\majorAssignment.frmMain.resources
+obj\Debug\majorAssignment.Properties.Resources.resources
+obj\Debug\majorAssignment.csproj.GenerateResource.Cache

@@ -1,0 +1,55 @@
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\Library.exe
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\Library.FrmLibrary.resources
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Kyle\Desktop\c#\Library\Library\bin\Debug\Library.exe
+C:\Users\Kyle\Desktop\c#\Library\Library\bin\Debug\Library.pdb
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\Library.pdb
+C:\Users\Kyle\Desktop\c#\Library\Library\obj\Debug\Library.FrmSelect.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.exe
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.pdb
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\bin\Debug\Library.exe
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\bin\Debug\Library.pdb
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.FrmLibrary.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.FrmSelect.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.FrmLibrary.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.FrmSelect.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.Properties.Resources.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.csproj.GenerateResource.Cache
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\bin\Release\Library.exe
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\bin\Release\Library.pdb
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.exe
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.pdb
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.FrmAdminLogin.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.FrmAdminLogin.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Debug\Library.FrmHelp.resources
+C:\Users\Damon\Documents\Visual Studio 2005\Library\Library\obj\Release\Library.FrmHelp.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Release\Library.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Release\Library.pdb
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\bin\Debug\Library.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\bin\Debug\Library.pdb
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmAdminLogin.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmHelp.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmLibrary.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmSelect.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\bin\Debug\Library.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\bin\Debug\Library.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmAdminLogin.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmHelp.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmLibrary.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.FrmSelect.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\DamonHaydenKyleLibrary\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache

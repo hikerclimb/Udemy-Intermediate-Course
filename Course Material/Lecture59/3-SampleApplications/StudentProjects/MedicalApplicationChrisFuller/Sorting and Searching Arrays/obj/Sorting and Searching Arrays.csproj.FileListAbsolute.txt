@@ -1,0 +1,36 @@
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.exe
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.pdb
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Form1.resources
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.FrmData.resources
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.exe
+C:\Documents and Settings\Owner\Desktop\C#\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.pdb
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.exe
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.pdb
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.exe
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.pdb
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Form1.resources
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.FrmData.resources
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\C#\Sorting_and_Searching_Arrays\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.csproj.GenerateResource.Cache
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.exe
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.pdb
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.exe
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.pdb
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Form1.resources
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.FrmData.resources
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Properties.Resources.resources
+C:\Temp\Sorting and Searching Arrays\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.csproj.GenerateResource.Cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\bin\Debug\Sorting and Searching Arrays.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Form1.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.FrmData.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting_and_Searching_Arrays.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\10-AdvancedFileHandling\3-SampleApplications\MedicalApplicationChrisFuller\Sorting and Searching Arrays\obj\Debug\Sorting and Searching Arrays.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmDataEntry.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmHelp.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmLibrary.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\bin\Debug\Personal Library Catalogue.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmDataEntry.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmHelp.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.FrmLibrary.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal_Library_Catalogue.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\DianaNajda\Personal Library Catalogue\obj\Debug\Personal Library Catalogue.pdb

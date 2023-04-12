@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Personal_Library_Catalogue.FrmLibrary.resources
+obj\Debug\Personal_Library_Catalogue.Properties.Resources.resources
+obj\Debug\Personal Library Catalogue.csproj.GenerateResource.Cache
+bin\Debug\Personal Library Catalogue.exe
+bin\Debug\Personal Library Catalogue.pdb
+obj\Debug\Personal Library Catalogue.exe
+obj\Debug\Personal Library Catalogue.pdb
+obj\Debug\Personal_Library_Catalogue.FrmDataEntry.resources
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Personal_Library_Catalogue.FrmDataEntry.resources
+obj\Release\Personal_Library_Catalogue.FrmLibrary.resources
+obj\Release\Personal_Library_Catalogue.Properties.Resources.resources
+obj\Release\Personal Library Catalogue.csproj.GenerateResource.Cache
+obj\Debug\Personal_Library_Catalogue.FrmHelp.resources

@@ -1,0 +1,51 @@
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.mdf
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker_log.ldf
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.exe.config
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.exe
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.pdb
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.Properties.Resources.resources
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.csproj.GenerateResource.Cache
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.exe
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.pdb
+D:\temp\rlCoopPrep\C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.Main.resources
+D:\temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.exe.config
+D:\temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.exe
+D:\temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.pdb
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.exe.config
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.exe
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.pdb
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.mdf
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker_log.ldf
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.exe
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\bin\Debug\CarTracker.pdb
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.Main.resources
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.Properties.Resources.resources
+C:\Temp\rlCoopPrep\5-C#SQLExamples\CarTracker\CarTracker\obj\Debug\CarTracker.csproj.GenerateResource.Cache
+C:\Temp\SummerPrep\1-C#DataBases\ccdemos\CarTracker\CarTracker\bin\Debug\CarTracker.exe.config
+C:\Temp\SummerPrep\1-C#DataBases\ccdemos\CarTracker\CarTracker\obj\Debug\CarTracker.exe
+C:\Temp\SummerPrep\1-C#DataBases\ccdemos\CarTracker\CarTracker\obj\Debug\CarTracker.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\bin\Debug\CarTracker.exe.config
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\obj\Debug\CarTracker.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\obj\Debug\CarTracker.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\bin\Debug\CarTracker.mdf
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\bin\Debug\CarTracker_log.ldf
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\bin\Debug\CarTracker.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\bin\Debug\CarTracker.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\obj\Debug\CarTracker.Main.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\obj\Debug\CarTracker.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\4-SQL\2-ccdemos\2-CarTracker\CarTracker\obj\Debug\CarTracker.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\bin\Debug\CarTracker.mdf
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\bin\Debug\CarTracker_log.ldf
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\bin\Debug\CarTracker.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\bin\Debug\CarTracker.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\bin\Debug\CarTracker.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.Main.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture61\2-CarTracker\CarTracker\obj\Debug\CarTracker.pdb

@@ -1,0 +1,245 @@
+Aaron Wilson
+21
+Male
+113
+Lymphoma
+None 
+NA
+Abby Secor
+43
+Female
+123
+Frequently Faints
+Allergic to Peanuts
+NA
+Rebecca Winship
+15
+Female
+346
+Eye Fell Out
+Eye Will Not Stay In
+NA
+Anthony Gillis
+23
+Male
+264
+Blood Clot 
+None
+NA
+Abraham Spencer
+65
+Male
+324
+Severe Hip Pain
+Diabetic
+NA
+Jordan Demelo
+18
+Male
+165
+Hepatitis A
+None
+NA
+Ryan Krawek
+20 
+Male
+222
+Brain Tumor
+Low Blood Pressure
+NA
+Rachel Long
+4
+Female
+115
+Broken Wrist
+Lactose Intolerant
+NA
+David Sayers
+10
+Male
+374
+Severe Asthma
+High Blood Pressure
+NA
+Herold Grant
+83
+Male
+188
+Stomach Cramps
+Alcoholic
+NA
+Herman Bradley
+23
+Male
+235
+Cataract-glaucoma
+None
+NA
+Jasmine Butterfield
+9
+Female
+111
+Itchy Eyes
+None
+NA
+Sarah Parker
+24
+Female
+348
+Breast Cancer
+Family History in Breast Cancer
+NA
+Stacey Reid
+55
+Female
+130
+Astigmatism
+None
+NA
+Hannah McNeil
+48
+Female
+235
+Red eye
+Allergic to Latex
+NA
+Carey Jarrell
+7
+Female
+373
+Lung Cancer
+Arthritis
+NA
+Bridget Ossiel
+73
+Female
+281
+Leukemia
+Diabetic
+NA
+Brooklyn Orban
+38
+Female
+173
+Glaucoma type 1C
+None
+NA
+Page Konora
+29
+Female
+351
+Birth Complications
+Allergic to Latex
+NA
+Sandy Krawsky
+31
+Male
+156
+Allergies
+None
+NA
+Guy Fontain
+22
+Male
+205
+Broken Jaw
+None  
+NA
+Bob Robertson
+37
+Male
+109
+Heart Attack
+Family History of Heart Condition
+NA
+Joe Johnson
+13
+Male
+132
+Tonsillectomy
+Diabetic
+NA
+Bill Williams
+80
+Male
+208
+Stroke
+Neck Breather
+NA
+Mary Swanson
+32
+Female
+312
+Broken Ankle
+Pregnant
+NA
+Sara May
+46
+Female
+222
+Influenza
+None
+NA
+Bob Ray
+29
+Male
+256
+Second Degree Burns
+Low Blood Pressure
+NA
+John Jackson
+57
+Male
+107
+Heart Attack
+Family History of Heart Condition
+NA
+Lora Stevens
+81
+Female
+318
+Lung Cancer
+Neck Breather
+NA
+Juan Higgens
+11
+Female
+134
+Bowl Cancer
+Low Heart Rate
+NA
+Frank Franklin
+24
+Male
+254
+Stroke
+None
+NA
+Kristine Richardson
+41
+Female
+343
+Stroke
+None
+NA
+Henry Winkler
+58
+Male
+233
+Broken Toe
+None
+NA
+Patrick Mamerial
+27
+Male
+233
+Broken Hip
+None
+NA
+Martin Rails
+49
+Male
+265
+Stroke
+None
+NA

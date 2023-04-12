@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\bin\Debug\CommonDialogs.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\bin\Debug\CommonDialogs.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\3-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\bin\Debug\CommonDialogs.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\bin\Debug\CommonDialogs.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\bin\Debug\CommonDialogs.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.Form1.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\2-CommonDialogsExample\CommonDialogs\obj\Debug\CommonDialogs.pdb

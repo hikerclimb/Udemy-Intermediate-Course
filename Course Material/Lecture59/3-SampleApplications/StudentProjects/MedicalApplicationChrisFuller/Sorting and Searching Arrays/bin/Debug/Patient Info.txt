@@ -1,0 +1,161 @@
+Guy Fontain
+22
+Male
+205
+Broken Jaw
+None
+NA
+Bob Robertson
+37
+Male
+109
+Heart Attack
+Family History of Heart Condition
+NA
+Joe Johnson
+13
+Male
+132
+Tonsillectomy
+Diabetic
+NA
+Bill Williams
+80
+Male
+208
+Stroke
+Neck Breather
+NA
+Mary Swanson
+32
+Female
+312
+Broken Ankle
+The Patient is Pregnant
+NA
+Rebecca Winship
+15
+Female
+346
+Eye Fell Out
+Eye Will Not Stay In
+NA
+Sara May
+46
+Female
+222
+Influenza
+None
+NA
+Bob Ray
+29
+Male
+256
+Second Degree Burns
+Low Blood Pressure
+NA
+John Jackson
+57
+Male
+107
+Heart Attack
+Family History of Heart Condition
+NA
+Lora Stevens
+81
+Female
+318
+Lung Cancer
+Neck Breather
+NA
+Juan Higgins
+11
+Female
+134
+Bowel Cancer
+Low Heart Rate
+NA
+Frank Franklin
+24
+Male
+254
+Stroke
+None
+NA
+Kristine Richardson
+41
+Female
+343
+Stroke
+None
+NA
+Henry Winkler
+58
+Male
+233
+Broken Toe
+None
+NA
+Patrick Mamerial
+27
+Male
+233
+Broken Hip
+None
+NA
+Martin Rails
+49
+Male
+265
+Stroke
+None
+NA
+George Oscars
+21
+Male
+203
+Dog Attack
+None
+NA
+Amanda Jewels
+38
+Female
+340
+Comatose
+Diabetic
+NA
+Paul Baker
+31
+Male
+121
+Third Degree Burns
+None
+NA
+May West
+28
+Female
+302
+Child Birth
+Patient has Asthma
+NA
+Bill Kurtz
+16
+Male
+132
+Tonsillectomy
+None
+NA
+Adam Davis
+53
+Male
+265
+Stroke
+Family History of a Heart Condition
+NA
+Raymond Roberts
+68
+Male
+256
+Second Degree Burns
+High Blood Pressure
+NA

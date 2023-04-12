@@ -1,0 +1,29 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\bin\Debug\majorAssignment.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\bin\Debug\majorAssignment.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAbout.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddDisplay.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddPeripheral.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddReceiver.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddSpeakers.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmMain.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\3-SampleApplications\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\bin\Debug\majorAssignment.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\bin\Debug\majorAssignment.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\bin\Debug\majorAssignment.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAbout.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddDisplay.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddPeripheral.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddReceiver.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmAddSpeakers.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.frmMain.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture59\3-SampleApplications\StudentProjects\AaronTownsend\majorAssignment\obj\Debug\majorAssignment.pdb

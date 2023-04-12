@@ -1,0 +1,18 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.FrmDelimited.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\10-AdvancedFileHandling\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\bin\Debug\DelimitedTextFileReading.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.FrmDelimited.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture58\2-CommonDialogs\1-CommonDialogIntro\DelimitedTextFileReading\obj\Debug\DelimitedTextFileReading.pdb
