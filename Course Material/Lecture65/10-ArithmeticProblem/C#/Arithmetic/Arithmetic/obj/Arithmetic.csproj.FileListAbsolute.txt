@@ -1,0 +1,16 @@
+D:\temp\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+D:\temp\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\temp\Arithmetic\Arithmetic\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\Arithmetic\Arithmetic\obj\Debug\Arithmetic.FrmArithmetic.resources
+D:\temp\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Properties.Resources.resources
+D:\temp\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.GenerateResource.Cache
+D:\temp\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+D:\temp\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.exe
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\bin\Debug\Arithmetic.exe
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.FrmArithmetic.resources
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.Properties.Resources.resources
+D:\temp\Programmania\2009\FinalFour\Problem3\ArithmeticProblem\C#\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.GenerateResource.Cache

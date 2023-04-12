@@ -1,0 +1,10 @@
+C:\Temp\RNA\RNA\bin\Debug\RNA.exe.config
+C:\Temp\RNA\RNA\bin\Debug\RNA.exe
+C:\Temp\RNA\RNA\bin\Debug\RNA.pdb
+C:\Temp\RNA\RNA\obj\Debug\RNA.csprojAssemblyReference.cache
+C:\Temp\RNA\RNA\obj\Debug\RNA.FrmRNA.resources
+C:\Temp\RNA\RNA\obj\Debug\RNA.Properties.Resources.resources
+C:\Temp\RNA\RNA\obj\Debug\RNA.csproj.GenerateResource.cache
+C:\Temp\RNA\RNA\obj\Debug\RNA.csproj.CoreCompileInputs.cache
+C:\Temp\RNA\RNA\obj\Debug\RNA.exe
+C:\Temp\RNA\RNA\obj\Debug\RNA.pdb

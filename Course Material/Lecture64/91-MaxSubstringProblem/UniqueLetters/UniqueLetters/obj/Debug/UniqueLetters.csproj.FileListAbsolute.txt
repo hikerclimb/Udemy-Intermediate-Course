@@ -1,0 +1,11 @@
+C:\Temp\UniqueLetters\UniqueLetters\bin\Debug\UniqueLetters.exe.config
+C:\Temp\UniqueLetters\UniqueLetters\bin\Debug\UniqueLetters.exe
+C:\Temp\UniqueLetters\UniqueLetters\bin\Debug\UniqueLetters.pdb
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.csproj.AssemblyReference.cache
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.csproj.SuggestedBindingRedirects.cache
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.FrmUnique.resources
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.Properties.Resources.resources
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.csproj.GenerateResource.cache
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.csproj.CoreCompileInputs.cache
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.exe
+C:\Temp\UniqueLetters\UniqueLetters\obj\Debug\UniqueLetters.pdb

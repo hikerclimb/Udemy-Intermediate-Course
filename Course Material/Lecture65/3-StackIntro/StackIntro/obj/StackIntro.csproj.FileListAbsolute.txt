@@ -1,0 +1,18 @@
+D:\temp\DataStructuresC#\StackIntro\StackIntro\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\DataStructuresC#\StackIntro\StackIntro\obj\Debug\StackIntro.FrmStack.resources
+D:\temp\DataStructuresC#\StackIntro\StackIntro\obj\Debug\StackIntro.Properties.Resources.resources
+D:\temp\DataStructuresC#\StackIntro\StackIntro\obj\Debug\StackIntro.csproj.GenerateResource.Cache
+D:\temp\DataStructuresC#\StackIntro\StackIntro\bin\Debug\StackIntro.exe
+D:\temp\DataStructuresC#\StackIntro\StackIntro\bin\Debug\StackIntro.pdb
+D:\temp\DataStructuresC#\StackIntro\StackIntro\obj\Debug\StackIntro.exe
+D:\temp\DataStructuresC#\StackIntro\StackIntro\obj\Debug\StackIntro.pdb
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\obj\Debug\StackIntro.exe
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\obj\Debug\StackIntro.pdb
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\bin\Debug\StackIntro.exe
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\bin\Debug\StackIntro.pdb
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\obj\Debug\StackIntro.FrmStack.resources
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\obj\Debug\StackIntro.Properties.Resources.resources
+D:\temp\DataStructuresC#\2-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.GenerateResource.Cache
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.pdb

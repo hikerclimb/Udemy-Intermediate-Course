@@ -11,3 +11,16 @@ C:\Temp\Blazor\ContactsDBexample\ContactsDBexample\obj\Debug\ContactsDBexample.c
 C:\Temp\Blazor\ContactsDBexample\ContactsDBexample\obj\Debug\ContactsDBexample.csproj.CoreCompileInputs.cache
 C:\Temp\Blazor\ContactsDBexample\ContactsDBexample\obj\Debug\ContactsDBexample.exe
 C:\Temp\Blazor\ContactsDBexample\ContactsDBexample\obj\Debug\ContactsDBexample.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\bin\Debug\Database1.mdf
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\bin\Debug\Database1_log.ldf
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\bin\Debug\ContactsDBexample.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\bin\Debug\ContactsDBexample.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\bin\Debug\ContactsDBexample.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.FrmDatabase.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture60\ContactsDBexampleVersion2022\ContactsDBexample\obj\Debug\ContactsDBexample.pdb

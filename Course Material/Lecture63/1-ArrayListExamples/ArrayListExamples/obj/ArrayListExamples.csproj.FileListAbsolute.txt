@@ -1,0 +1,12 @@
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.FrmArrayList.resources
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.Properties.Resources.resources
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.csproj.GenerateResource.Cache
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\bin\Debug\ArrayListExamples.exe
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\bin\Debug\ArrayListExamples.pdb
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.exe
+D:\temp\DataStructuresC#\ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.pdb
+D:\temp\DataStructuresC#\1-ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.exe
+D:\temp\DataStructuresC#\1-ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.pdb
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-DataStructures\1-ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.exe
+D:\Charlie School Material\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\11-DataStructures\1-ArrayListExamples\ArrayListExamples\obj\Debug\ArrayListExamples.pdb

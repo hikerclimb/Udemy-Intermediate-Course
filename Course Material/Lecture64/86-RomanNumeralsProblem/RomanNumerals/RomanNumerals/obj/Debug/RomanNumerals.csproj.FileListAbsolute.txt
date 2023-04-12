@@ -1,0 +1,10 @@
+C:\Temp\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Temp\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe
+C:\Temp\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csproj.SuggestedBindingRedirects.cache
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.FrmRoman.resources
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.Properties.Resources.resources
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csproj.GenerateResource.cache
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Temp\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb

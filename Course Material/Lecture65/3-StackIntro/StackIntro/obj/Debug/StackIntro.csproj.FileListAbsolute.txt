@@ -1,0 +1,26 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\bin\Debug\StackIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\bin\Debug\StackIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.FrmStack.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\11-DataStructures\2-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.GenerateResource.Cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\obj\Debug\StackIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\obj\Debug\StackIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\bin\Debug\StackIntro.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\bin\Debug\StackIntro.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\obj\Debug\StackIntro.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\obj\Debug\StackIntro.FrmStack.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\obj\Debug\StackIntro.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\LectureDemos\11-DataStructures\3-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.GenerateResource.Cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\bin\Debug\StackIntro.exe.config
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\bin\Debug\StackIntro.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\bin\Debug\StackIntro.pdb
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.FrmStack.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.Properties.Resources.resources
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.exe
+C:\Users\Aniket\Documents\Udemy-Intermediate-Course\Course Material\Lecture65\3-StackIntro\StackIntro\obj\Debug\StackIntro.pdb
